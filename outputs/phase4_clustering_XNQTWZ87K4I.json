@@ -1,0 +1,36 @@
+{
+  "clusters": {
+    "VISUAL_000": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "frame_to_cluster": {
+    "SEM_1000_F0": "VISUAL_000",
+    "REF_003_F1": "VISUAL_000",
+    "REF_003_F2": "VISUAL_000",
+    "REF_004_F3": "VISUAL_000",
+    "SEM_1012_F4": "VISUAL_000",
+    "REF_008_F5": "VISUAL_000",
+    "SEM_1015_F6": "VISUAL_000",
+    "SEM_1018_F7": "VISUAL_000",
+    "REF_011_F8": "VISUAL_000",
+    "REF_011_F9": "VISUAL_000",
+    "REF_012_F10": "VISUAL_000"
+  },
+  "cluster_representatives": {
+    "VISUAL_000": 6
+  },
+  "cluster_sizes": {
+    "VISUAL_000": 11
+  }
+}

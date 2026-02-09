@@ -1,0 +1,4130 @@
+{
+  "video_id": "XNQTWZ87K4I",
+  "video_title": "3 common GDPR mistakes for website compliance",
+  "video_url": "https://www.youtube.com/watch?v=XNQTWZ87K4I",
+  "video_path": "/kaggle/working/videos/XNQTWZ87K4I.mp4",
+  "audio_path": "/kaggle/working/audio/XNQTWZ87K4I.mp3",
+  "duration_ms": 226000,
+  "full_transcript": " So, how do you make a website compliant with GDPR and other information data privacy laws? Again, and again, we've seen the same common mistakes on, you know, hundreds and thousands of websites. So, I want to go through three very common mistakes in this video to make sure that you don't do the same mistakes. So, one of them is that do you have a cookie banner, which blocked cookies before you have explicit consent? Okay, I want to show you how it can be done. So, if you take a look on this website right here, we have a cookie banner, which communicates the privacy notice, and also you have to embed the ability to block cookies before a user presses accept. Okay, so that's something your solution should be able to do. Basically, be able to block cookies before you have received explicit consent. Okay, another best practice you want to have included in your banner is not only the ability to accept, but also the client, the cookie banner, as you see right here. In this specific case right here, we have chosen an approach of being transparent with the data we collect. So, we have what we call a detailed cookie banner. So, you can take details and you can see what type of cookies and plugins we use on the website and your ability to change the dissentings right here. Other ways you can make it look and style to make it fit in a beautiful way to your website is like this. And here's another beautiful way to make it stylish and make it fit your website. So, you have a number of ways to make it look and feel perfect to your own website. Okay, now that's one of the areas we want to walk through in terms of the cookie banner. A second part is have you made it easy to withdraw consent? Okay, so from a technical aspect, this is quite complicated. So, in this case, let's say that I have now consented for the cookies and trackers. Now, how do you actually change the consent? Now, you may have difficulty because of the little widget down here. But we actually have what we call a trust badge, which you can move in different locations on the website. But what's really smart about it is that it is interactive. So, in the case of, let's say, analytics, it provides you an ability to opt in, but also opt out and basically change the users previously given consent as well. And that's something we document inside our back end as well. Okay, so that's a way to communicate additional privacy information, but also to be very transparent and provide the ability for the user to withdraw consent at a later time. Okay, so very important. So, that is the second point. Now, the third point is do you have evidence of valid consent? I want to show you how it looks inside the administration panel. So, if I go to consent tracking and let's say I now press refresh right here, you can then see that I have now declined for analytics right here. So, you can basically see that I have declined and we now have a record of the consent in real time, documented by a secure privacy as well. So, that's something you have to have in mind when you implement a GDPR, E privacy, or LTPD solution for your websites and your company. Okay, so, three common mistakes. Thanks. I hope it makes sense. Autolize with the habit to hear from you.",
+  "utterances": [
+    {
+      "text": "So, how do you make a website compliant with GDPR and other",
+      "start_ms": 680,
+      "end_ms": 5000,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 0.6800000000000039,
+          "end": 1.2,
+          "probability": 0.5042327046394348
+        },
+        {
+          "word": " how",
+          "start": 1.96,
+          "end": 2.06,
+          "probability": 0.9128895998001099
+        },
+        {
+          "word": " do",
+          "start": 2.06,
+          "end": 2.22,
+          "probability": 0.9173053503036499
+        },
+        {
+          "word": " you",
+          "start": 2.22,
+          "end": 2.34,
+          "probability": 0.9860385060310364
+        },
+        {
+          "word": " make",
+          "start": 2.34,
+          "end": 2.5,
+          "probability": 0.995438277721405
+        },
+        {
+          "word": " a",
+          "start": 2.5,
+          "end": 2.68,
+          "probability": 0.9495893716812134
+        },
+        {
+          "word": " website",
+          "start": 2.68,
+          "end": 2.98,
+          "probability": 0.9852162599563599
+        },
+        {
+          "word": " compliant",
+          "start": 2.98,
+          "end": 3.6,
+          "probability": 0.6936503648757935
+        },
+        {
+          "word": " with",
+          "start": 3.6,
+          "end": 3.82,
+          "probability": 0.9904363751411438
+        },
+        {
+          "word": " GDPR",
+          "start": 3.82,
+          "end": 4.46,
+          "probability": 0.8888824582099915
+        },
+        {
+          "word": " and",
+          "start": 4.46,
+          "end": 4.72,
+          "probability": 0.9594759345054626
+        },
+        {
+          "word": " other",
+          "start": 4.72,
+          "end": 5.0,
+          "probability": 0.957436203956604
+        }
+      ]
+    },
+    {
+      "text": "information data privacy laws?",
+      "start_ms": 5000,
+      "end_ms": 6520,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " information",
+          "start": 5.0,
+          "end": 5.54,
+          "probability": 0.36579641699790955
+        },
+        {
+          "word": " data",
+          "start": 5.54,
+          "end": 5.78,
+          "probability": 0.5759238600730896
+        },
+        {
+          "word": " privacy",
+          "start": 5.78,
+          "end": 6.28,
+          "probability": 0.9890838265419006
+        },
+        {
+          "word": " laws?",
+          "start": 6.28,
+          "end": 6.52,
+          "probability": 0.977683424949646
+        }
+      ]
+    },
+    {
+      "text": "Again, and again, we've seen the same common mistakes on, you know,",
+      "start_ms": 7700,
+      "end_ms": 12100,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Again,",
+          "start": 7.700000000000005,
+          "end": 8.22,
+          "probability": 0.9683929681777954
+        },
+        {
+          "word": " and",
+          "start": 8.38,
+          "end": 8.44,
+          "probability": 0.7025443315505981
+        },
+        {
+          "word": " again,",
+          "start": 8.44,
+          "end": 8.64,
+          "probability": 0.9628838896751404
+        },
+        {
+          "word": " we've",
+          "start": 8.82,
+          "end": 9.02,
+          "probability": 0.9876086413860321
+        },
+        {
+          "word": " seen",
+          "start": 9.02,
+          "end": 9.18,
+          "probability": 0.9979109168052673
+        },
+        {
+          "word": " the",
+          "start": 9.18,
+          "end": 9.36,
+          "probability": 0.9915483593940735
+        },
+        {
+          "word": " same",
+          "start": 9.36,
+          "end": 9.74,
+          "probability": 0.9958196878433228
+        },
+        {
+          "word": " common",
+          "start": 9.74,
+          "end": 10.2,
+          "probability": 0.9887005686759949
+        },
+        {
+          "word": " mistakes",
+          "start": 10.2,
+          "end": 10.62,
+          "probability": 0.9979473948478699
+        },
+        {
+          "word": " on,",
+          "start": 10.62,
+          "end": 11.3,
+          "probability": 0.9368147850036621
+        },
+        {
+          "word": " you",
+          "start": 11.5,
+          "end": 11.96,
+          "probability": 0.9831039905548096
+        },
+        {
+          "word": " know,",
+          "start": 11.96,
+          "end": 12.1,
+          "probability": 0.9994195699691772
+        }
+      ]
+    },
+    {
+      "text": "hundreds and thousands of websites.",
+      "start_ms": 12340,
+      "end_ms": 14680,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " hundreds",
+          "start": 12.34,
+          "end": 12.96,
+          "probability": 0.9800574779510498
+        },
+        {
+          "word": " and",
+          "start": 12.96,
+          "end": 13.28,
+          "probability": 0.9913238286972046
+        },
+        {
+          "word": " thousands",
+          "start": 13.28,
+          "end": 13.72,
+          "probability": 0.9967060685157776
+        },
+        {
+          "word": " of",
+          "start": 13.72,
+          "end": 14.24,
+          "probability": 0.9967516660690308
+        },
+        {
+          "word": " websites.",
+          "start": 14.24,
+          "end": 14.68,
+          "probability": 0.9678414463996887
+        }
+      ]
+    },
+    {
+      "text": "So, I want to go through three very common mistakes in this video",
+      "start_ms": 14680,
+      "end_ms": 17780,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 14.68,
+          "end": 15.02,
+          "probability": 0.9840652346611023
+        },
+        {
+          "word": " I",
+          "start": 15.1,
+          "end": 15.2,
+          "probability": 0.9963195323944092
+        },
+        {
+          "word": " want",
+          "start": 15.2,
+          "end": 15.3,
+          "probability": 0.7622683644294739
+        },
+        {
+          "word": " to",
+          "start": 15.3,
+          "end": 15.38,
+          "probability": 0.9970587491989136
+        },
+        {
+          "word": " go",
+          "start": 15.38,
+          "end": 15.52,
+          "probability": 0.9958047270774841
+        },
+        {
+          "word": " through",
+          "start": 15.52,
+          "end": 15.72,
+          "probability": 0.9961249232292175
+        },
+        {
+          "word": " three",
+          "start": 15.72,
+          "end": 16.14,
+          "probability": 0.876356840133667
+        },
+        {
+          "word": " very",
+          "start": 16.14,
+          "end": 16.5,
+          "probability": 0.9885213375091553
+        },
+        {
+          "word": " common",
+          "start": 16.5,
+          "end": 16.76,
+          "probability": 0.9939547181129456
+        },
+        {
+          "word": " mistakes",
+          "start": 16.76,
+          "end": 17.12,
+          "probability": 0.9915319085121155
+        },
+        {
+          "word": " in",
+          "start": 17.12,
+          "end": 17.38,
+          "probability": 0.9051470756530762
+        },
+        {
+          "word": " this",
+          "start": 17.38,
+          "end": 17.5,
+          "probability": 0.9986388087272644
+        },
+        {
+          "word": " video",
+          "start": 17.5,
+          "end": 17.78,
+          "probability": 0.9995241165161133
+        }
+      ]
+    },
+    {
+      "text": "to make sure that you don't do the same mistakes.",
+      "start_ms": 17780,
+      "end_ms": 20020,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " to",
+          "start": 17.78,
+          "end": 18.36,
+          "probability": 0.8503215312957764
+        },
+        {
+          "word": " make",
+          "start": 18.36,
+          "end": 18.5,
+          "probability": 0.9985302686691284
+        },
+        {
+          "word": " sure",
+          "start": 18.5,
+          "end": 18.72,
+          "probability": 0.9995249509811401
+        },
+        {
+          "word": " that",
+          "start": 18.72,
+          "end": 18.88,
+          "probability": 0.9907668828964233
+        },
+        {
+          "word": " you",
+          "start": 18.88,
+          "end": 19.04,
+          "probability": 0.9986916184425354
+        },
+        {
+          "word": " don't",
+          "start": 19.04,
+          "end": 19.4,
+          "probability": 0.9981144368648529
+        },
+        {
+          "word": " do",
+          "start": 19.4,
+          "end": 19.5,
+          "probability": 0.9977814555168152
+        },
+        {
+          "word": " the",
+          "start": 19.5,
+          "end": 19.6,
+          "probability": 0.9904389381408691
+        },
+        {
+          "word": " same",
+          "start": 19.6,
+          "end": 19.78,
+          "probability": 0.9994608759880066
+        },
+        {
+          "word": " mistakes.",
+          "start": 19.78,
+          "end": 20.02,
+          "probability": 0.9984447360038757
+        }
+      ]
+    },
+    {
+      "text": "So, one of them is that do you have a cookie banner,",
+      "start_ms": 20780,
+      "end_ms": 23880,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 20.780000000000005,
+          "end": 21.3,
+          "probability": 0.23000028729438782
+        },
+        {
+          "word": " one",
+          "start": 21.42,
+          "end": 21.92,
+          "probability": 0.9889577031135559
+        },
+        {
+          "word": " of",
+          "start": 21.92,
+          "end": 22.04,
+          "probability": 0.9979775547981262
+        },
+        {
+          "word": " them",
+          "start": 22.04,
+          "end": 22.14,
+          "probability": 0.9936840534210205
+        },
+        {
+          "word": " is",
+          "start": 22.14,
+          "end": 22.32,
+          "probability": 0.9957041144371033
+        },
+        {
+          "word": " that",
+          "start": 22.32,
+          "end": 22.54,
+          "probability": 0.9775726795196533
+        },
+        {
+          "word": " do",
+          "start": 22.54,
+          "end": 22.92,
+          "probability": 0.7174422740936279
+        },
+        {
+          "word": " you",
+          "start": 22.92,
+          "end": 23.06,
+          "probability": 0.995799720287323
+        },
+        {
+          "word": " have",
+          "start": 23.06,
+          "end": 23.22,
+          "probability": 0.9978830218315125
+        },
+        {
+          "word": " a",
+          "start": 23.22,
+          "end": 23.36,
+          "probability": 0.9707781076431274
+        },
+        {
+          "word": " cookie",
+          "start": 23.36,
+          "end": 23.54,
+          "probability": 0.5681478977203369
+        },
+        {
+          "word": " banner,",
+          "start": 23.54,
+          "end": 23.88,
+          "probability": 0.9951632022857666
+        }
+      ]
+    },
+    {
+      "text": "which blocked cookies before you have explicit consent?",
+      "start_ms": 24140,
+      "end_ms": 27820,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " which",
+          "start": 24.14,
+          "end": 24.38,
+          "probability": 0.9966488480567932
+        },
+        {
+          "word": " blocked",
+          "start": 24.38,
+          "end": 24.66,
+          "probability": 0.37784504890441895
+        },
+        {
+          "word": " cookies",
+          "start": 24.66,
+          "end": 25.1,
+          "probability": 0.9901326894760132
+        },
+        {
+          "word": " before",
+          "start": 25.1,
+          "end": 25.78,
+          "probability": 0.6726557612419128
+        },
+        {
+          "word": " you",
+          "start": 25.78,
+          "end": 26.34,
+          "probability": 0.9916734099388123
+        },
+        {
+          "word": " have",
+          "start": 26.34,
+          "end": 26.66,
+          "probability": 0.9979053735733032
+        },
+        {
+          "word": " explicit",
+          "start": 26.66,
+          "end": 27.4,
+          "probability": 0.99748694896698
+        },
+        {
+          "word": " consent?",
+          "start": 27.4,
+          "end": 27.82,
+          "probability": 0.9701238870620728
+        }
+      ]
+    },
+    {
+      "text": "Okay, I want to show you how it can be done.",
+      "start_ms": 27820,
+      "end_ms": 30820,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 27.82,
+          "end": 28.5,
+          "probability": 0.05547317862510681
+        },
+        {
+          "word": " I",
+          "start": 28.92,
+          "end": 29.1,
+          "probability": 0.16624601185321808
+        },
+        {
+          "word": " want",
+          "start": 29.1,
+          "end": 29.16,
+          "probability": 0.6458196043968201
+        },
+        {
+          "word": " to",
+          "start": 29.16,
+          "end": 29.2,
+          "probability": 0.9940760135650635
+        },
+        {
+          "word": " show",
+          "start": 29.2,
+          "end": 29.38,
+          "probability": 0.9968569278717041
+        },
+        {
+          "word": " you",
+          "start": 29.38,
+          "end": 29.52,
+          "probability": 0.9947502017021179
+        },
+        {
+          "word": " how",
+          "start": 29.52,
+          "end": 29.68,
+          "probability": 0.9864960312843323
+        },
+        {
+          "word": " it",
+          "start": 29.68,
+          "end": 30.12,
+          "probability": 0.9849442839622498
+        },
+        {
+          "word": " can",
+          "start": 30.12,
+          "end": 30.46,
+          "probability": 0.8121844530105591
+        },
+        {
+          "word": " be",
+          "start": 30.46,
+          "end": 30.64,
+          "probability": 0.9989952445030212
+        },
+        {
+          "word": " done.",
+          "start": 30.64,
+          "end": 30.82,
+          "probability": 0.9991381168365479
+        }
+      ]
+    },
+    {
+      "text": "So, if you take a look on this website right here,",
+      "start_ms": 31460,
+      "end_ms": 34860,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 31.46,
+          "end": 31.7,
+          "probability": 0.9704390168190002
+        },
+        {
+          "word": " if",
+          "start": 31.9,
+          "end": 32.02,
+          "probability": 0.9946369528770447
+        },
+        {
+          "word": " you",
+          "start": 32.02,
+          "end": 32.1,
+          "probability": 0.9981474876403809
+        },
+        {
+          "word": " take",
+          "start": 32.1,
+          "end": 32.28,
+          "probability": 0.9956002235412598
+        },
+        {
+          "word": " a",
+          "start": 32.28,
+          "end": 32.44,
+          "probability": 0.9987680315971375
+        },
+        {
+          "word": " look",
+          "start": 32.44,
+          "end": 32.56,
+          "probability": 0.9986328482627869
+        },
+        {
+          "word": " on",
+          "start": 32.56,
+          "end": 33.14,
+          "probability": 0.9925674200057983
+        },
+        {
+          "word": " this",
+          "start": 33.14,
+          "end": 33.9,
+          "probability": 0.8459077477455139
+        },
+        {
+          "word": " website",
+          "start": 33.9,
+          "end": 34.36,
+          "probability": 0.9743446707725525
+        },
+        {
+          "word": " right",
+          "start": 34.36,
+          "end": 34.58,
+          "probability": 0.9714521765708923
+        },
+        {
+          "word": " here,",
+          "start": 34.58,
+          "end": 34.86,
+          "probability": 0.9977021813392639
+        }
+      ]
+    },
+    {
+      "text": "we have a cookie banner, which communicates the privacy notice,",
+      "start_ms": 35800,
+      "end_ms": 39640,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " we",
+          "start": 35.8,
+          "end": 36.44,
+          "probability": 0.9564244151115417
+        },
+        {
+          "word": " have",
+          "start": 36.44,
+          "end": 36.74,
+          "probability": 0.9987215399742126
+        },
+        {
+          "word": " a",
+          "start": 36.74,
+          "end": 37.0,
+          "probability": 0.8946535587310791
+        },
+        {
+          "word": " cookie",
+          "start": 37.0,
+          "end": 37.22,
+          "probability": 0.3940102159976959
+        },
+        {
+          "word": " banner,",
+          "start": 37.22,
+          "end": 37.56,
+          "probability": 0.9949192404747009
+        },
+        {
+          "word": " which",
+          "start": 37.56,
+          "end": 38.1,
+          "probability": 0.9983013868331909
+        },
+        {
+          "word": " communicates",
+          "start": 38.1,
+          "end": 38.82,
+          "probability": 0.9268914461135864
+        },
+        {
+          "word": " the",
+          "start": 38.82,
+          "end": 38.92,
+          "probability": 0.6202697157859802
+        },
+        {
+          "word": " privacy",
+          "start": 38.92,
+          "end": 39.2,
+          "probability": 0.8750327229499817
+        },
+        {
+          "word": " notice,",
+          "start": 39.2,
+          "end": 39.64,
+          "probability": 0.9699335694313049
+        }
+      ]
+    },
+    {
+      "text": "and also you have to embed the ability to block cookies",
+      "start_ms": 40280,
+      "end_ms": 44680,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " and",
+          "start": 40.28,
+          "end": 40.58,
+          "probability": 0.992595374584198
+        },
+        {
+          "word": " also",
+          "start": 40.58,
+          "end": 40.98,
+          "probability": 0.9916976690292358
+        },
+        {
+          "word": " you",
+          "start": 40.98,
+          "end": 41.52,
+          "probability": 0.7157174944877625
+        },
+        {
+          "word": " have",
+          "start": 41.52,
+          "end": 41.98,
+          "probability": 0.9935321807861328
+        },
+        {
+          "word": " to",
+          "start": 41.98,
+          "end": 42.36,
+          "probability": 0.9986372590065002
+        },
+        {
+          "word": " embed",
+          "start": 42.36,
+          "end": 42.82,
+          "probability": 0.9975749850273132
+        },
+        {
+          "word": " the",
+          "start": 42.82,
+          "end": 43.26,
+          "probability": 0.9982232451438904
+        },
+        {
+          "word": " ability",
+          "start": 43.26,
+          "end": 43.7,
+          "probability": 0.9946454763412476
+        },
+        {
+          "word": " to",
+          "start": 43.7,
+          "end": 44.0,
+          "probability": 0.9980171918869019
+        },
+        {
+          "word": " block",
+          "start": 44.0,
+          "end": 44.26,
+          "probability": 0.9787785410881042
+        },
+        {
+          "word": " cookies",
+          "start": 44.26,
+          "end": 44.68,
+          "probability": 0.9885562062263489
+        }
+      ]
+    },
+    {
+      "text": "before a user presses accept.",
+      "start_ms": 44680,
+      "end_ms": 47840,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " before",
+          "start": 44.68,
+          "end": 45.52,
+          "probability": 0.9592519998550415
+        },
+        {
+          "word": " a",
+          "start": 45.52,
+          "end": 46.56,
+          "probability": 0.7735170722007751
+        },
+        {
+          "word": " user",
+          "start": 46.56,
+          "end": 46.88,
+          "probability": 0.9929292798042297
+        },
+        {
+          "word": " presses",
+          "start": 46.88,
+          "end": 47.32,
+          "probability": 0.9801714420318604
+        },
+        {
+          "word": " accept.",
+          "start": 47.32,
+          "end": 47.84,
+          "probability": 0.7292792797088623
+        }
+      ]
+    },
+    {
+      "text": "Okay, so that's something your solution should be able to do.",
+      "start_ms": 48360,
+      "end_ms": 51600,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 48.36,
+          "end": 48.52,
+          "probability": 0.688886821269989
+        },
+        {
+          "word": " so",
+          "start": 49.0,
+          "end": 49.14,
+          "probability": 0.9802548289299011
+        },
+        {
+          "word": " that's",
+          "start": 49.14,
+          "end": 49.44,
+          "probability": 0.9385259449481964
+        },
+        {
+          "word": " something",
+          "start": 49.44,
+          "end": 49.72,
+          "probability": 0.9989200830459595
+        },
+        {
+          "word": " your",
+          "start": 49.72,
+          "end": 50.04,
+          "probability": 0.9882219433784485
+        },
+        {
+          "word": " solution",
+          "start": 50.04,
+          "end": 50.68,
+          "probability": 0.8170642852783203
+        },
+        {
+          "word": " should",
+          "start": 50.68,
+          "end": 50.94,
+          "probability": 0.9985225796699524
+        },
+        {
+          "word": " be",
+          "start": 50.94,
+          "end": 51.12,
+          "probability": 0.9976213574409485
+        },
+        {
+          "word": " able",
+          "start": 51.12,
+          "end": 51.26,
+          "probability": 0.9967349171638489
+        },
+        {
+          "word": " to",
+          "start": 51.26,
+          "end": 51.4,
+          "probability": 0.9988143444061279
+        },
+        {
+          "word": " do.",
+          "start": 51.4,
+          "end": 51.6,
+          "probability": 0.9951634407043457
+        }
+      ]
+    },
+    {
+      "text": "Basically, be able to block cookies before you have received explicit consent.",
+      "start_ms": 51980,
+      "end_ms": 56400,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Basically,",
+          "start": 51.98,
+          "end": 52.4,
+          "probability": 0.9871719479560852
+        },
+        {
+          "word": " be",
+          "start": 52.66,
+          "end": 52.68,
+          "probability": 0.7691222429275513
+        },
+        {
+          "word": " able",
+          "start": 52.68,
+          "end": 52.92,
+          "probability": 0.9989249110221863
+        },
+        {
+          "word": " to",
+          "start": 52.92,
+          "end": 53.04,
+          "probability": 0.9963585734367371
+        },
+        {
+          "word": " block",
+          "start": 53.04,
+          "end": 53.28,
+          "probability": 0.9926970601081848
+        },
+        {
+          "word": " cookies",
+          "start": 53.28,
+          "end": 53.72,
+          "probability": 0.9895525574684143
+        },
+        {
+          "word": " before",
+          "start": 53.72,
+          "end": 54.36,
+          "probability": 0.9505919814109802
+        },
+        {
+          "word": " you",
+          "start": 54.36,
+          "end": 54.76,
+          "probability": 0.9724077582359314
+        },
+        {
+          "word": " have",
+          "start": 54.76,
+          "end": 54.94,
+          "probability": 0.9796290993690491
+        },
+        {
+          "word": " received",
+          "start": 54.94,
+          "end": 55.34,
+          "probability": 0.849172055721283
+        },
+        {
+          "word": " explicit",
+          "start": 55.34,
+          "end": 56.0,
+          "probability": 0.9973539113998413
+        },
+        {
+          "word": " consent.",
+          "start": 56.0,
+          "end": 56.4,
+          "probability": 0.6607679128646851
+        }
+      ]
+    },
+    {
+      "text": "Okay, another best practice you want to have included in your banner",
+      "start_ms": 56400,
+      "end_ms": 60460,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 56.4,
+          "end": 57.04,
+          "probability": 0.0535450242459774
+        },
+        {
+          "word": " another",
+          "start": 57.66,
+          "end": 58.02,
+          "probability": 0.40060368180274963
+        },
+        {
+          "word": " best",
+          "start": 58.02,
+          "end": 58.44,
+          "probability": 0.9563832879066467
+        },
+        {
+          "word": " practice",
+          "start": 58.44,
+          "end": 58.86,
+          "probability": 0.9752591848373413
+        },
+        {
+          "word": " you",
+          "start": 58.86,
+          "end": 59.08,
+          "probability": 0.9600804448127747
+        },
+        {
+          "word": " want",
+          "start": 59.08,
+          "end": 59.22,
+          "probability": 0.807652473449707
+        },
+        {
+          "word": " to",
+          "start": 59.22,
+          "end": 59.32,
+          "probability": 0.9873310923576355
+        },
+        {
+          "word": " have",
+          "start": 59.32,
+          "end": 59.46,
+          "probability": 0.9934566617012024
+        },
+        {
+          "word": " included",
+          "start": 59.46,
+          "end": 59.9,
+          "probability": 0.6225107908248901
+        },
+        {
+          "word": " in",
+          "start": 59.9,
+          "end": 60.12,
+          "probability": 0.9419553875923157
+        },
+        {
+          "word": " your",
+          "start": 60.12,
+          "end": 60.2,
+          "probability": 0.9569571614265442
+        },
+        {
+          "word": " banner",
+          "start": 60.2,
+          "end": 60.46,
+          "probability": 0.986039400100708
+        }
+      ]
+    },
+    {
+      "text": "is not only the ability to accept, but also the client,",
+      "start_ms": 60460,
+      "end_ms": 64519,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " is",
+          "start": 60.46,
+          "end": 60.8,
+          "probability": 0.9735733866691589
+        },
+        {
+          "word": " not",
+          "start": 60.8,
+          "end": 61.32,
+          "probability": 0.9270563125610352
+        },
+        {
+          "word": " only",
+          "start": 61.32,
+          "end": 61.58,
+          "probability": 0.9665103554725647
+        },
+        {
+          "word": " the",
+          "start": 61.58,
+          "end": 61.8,
+          "probability": 0.9888373613357544
+        },
+        {
+          "word": " ability",
+          "start": 61.8,
+          "end": 62.22,
+          "probability": 0.989629328250885
+        },
+        {
+          "word": " to",
+          "start": 62.22,
+          "end": 62.5,
+          "probability": 0.9949117302894592
+        },
+        {
+          "word": " accept,",
+          "start": 62.5,
+          "end": 62.84,
+          "probability": 0.9865943193435669
+        },
+        {
+          "word": " but",
+          "start": 63.16,
+          "end": 63.36,
+          "probability": 0.9964439272880554
+        },
+        {
+          "word": " also",
+          "start": 63.36,
+          "end": 63.82,
+          "probability": 0.9984691739082336
+        },
+        {
+          "word": " the",
+          "start": 63.82,
+          "end": 64.04,
+          "probability": 0.26755210757255554
+        },
+        {
+          "word": " client,",
+          "start": 64.04,
+          "end": 64.52,
+          "probability": 0.8789360523223877
+        }
+      ]
+    },
+    {
+      "text": "the cookie banner, as you see right here.",
+      "start_ms": 64819,
+      "end_ms": 66160,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " the",
+          "start": 64.82,
+          "end": 64.82,
+          "probability": 0.9756351113319397
+        },
+        {
+          "word": " cookie",
+          "start": 64.82,
+          "end": 65.04,
+          "probability": 0.38558903336524963
+        },
+        {
+          "word": " banner,",
+          "start": 65.04,
+          "end": 65.34,
+          "probability": 0.989038348197937
+        },
+        {
+          "word": " as",
+          "start": 65.46,
+          "end": 65.56,
+          "probability": 0.9763128757476807
+        },
+        {
+          "word": " you",
+          "start": 65.56,
+          "end": 65.68,
+          "probability": 0.9990915060043335
+        },
+        {
+          "word": " see",
+          "start": 65.68,
+          "end": 65.8,
+          "probability": 0.9966983199119568
+        },
+        {
+          "word": " right",
+          "start": 65.8,
+          "end": 65.98,
+          "probability": 0.9659797549247742
+        },
+        {
+          "word": " here.",
+          "start": 65.98,
+          "end": 66.16,
+          "probability": 0.9973742961883545
+        }
+      ]
+    },
+    {
+      "text": "In this specific case right here, we have chosen an approach",
+      "start_ms": 67100,
+      "end_ms": 71380,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " In",
+          "start": 67.1,
+          "end": 67.46,
+          "probability": 0.9887039065361023
+        },
+        {
+          "word": " this",
+          "start": 67.46,
+          "end": 67.66,
+          "probability": 0.9971703886985779
+        },
+        {
+          "word": " specific",
+          "start": 67.66,
+          "end": 68.06,
+          "probability": 0.9975146055221558
+        },
+        {
+          "word": " case",
+          "start": 68.06,
+          "end": 68.44,
+          "probability": 0.9989463686943054
+        },
+        {
+          "word": " right",
+          "start": 68.44,
+          "end": 68.72,
+          "probability": 0.7330553531646729
+        },
+        {
+          "word": " here,",
+          "start": 68.72,
+          "end": 69.08,
+          "probability": 0.9963858127593994
+        },
+        {
+          "word": " we",
+          "start": 69.28,
+          "end": 69.4,
+          "probability": 0.9957089424133301
+        },
+        {
+          "word": " have",
+          "start": 69.4,
+          "end": 69.5,
+          "probability": 0.9926823973655701
+        },
+        {
+          "word": " chosen",
+          "start": 69.5,
+          "end": 69.86,
+          "probability": 0.9920727610588074
+        },
+        {
+          "word": " an",
+          "start": 69.86,
+          "end": 71.04,
+          "probability": 0.9745821952819824
+        },
+        {
+          "word": " approach",
+          "start": 71.04,
+          "end": 71.38,
+          "probability": 0.9963299632072449
+        }
+      ]
+    },
+    {
+      "text": "of being transparent with the data we collect.",
+      "start_ms": 71380,
+      "end_ms": 74840,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " of",
+          "start": 71.38,
+          "end": 72.12,
+          "probability": 0.9906322956085205
+        },
+        {
+          "word": " being",
+          "start": 72.12,
+          "end": 72.46,
+          "probability": 0.9891908168792725
+        },
+        {
+          "word": " transparent",
+          "start": 72.46,
+          "end": 73.06,
+          "probability": 0.9986259937286377
+        },
+        {
+          "word": " with",
+          "start": 73.06,
+          "end": 73.48,
+          "probability": 0.9624786972999573
+        },
+        {
+          "word": " the",
+          "start": 73.48,
+          "end": 73.78,
+          "probability": 0.9947155117988586
+        },
+        {
+          "word": " data",
+          "start": 73.78,
+          "end": 74.38,
+          "probability": 0.9947866201400757
+        },
+        {
+          "word": " we",
+          "start": 74.38,
+          "end": 74.56,
+          "probability": 0.9812195897102356
+        },
+        {
+          "word": " collect.",
+          "start": 74.56,
+          "end": 74.84,
+          "probability": 0.9717031121253967
+        }
+      ]
+    },
+    {
+      "text": "So, we have what we call a detailed cookie banner.",
+      "start_ms": 75060,
+      "end_ms": 77620,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 75.06,
+          "end": 75.16,
+          "probability": 0.9479020237922668
+        },
+        {
+          "word": " we",
+          "start": 75.54,
+          "end": 75.76,
+          "probability": 0.9968240261077881
+        },
+        {
+          "word": " have",
+          "start": 75.76,
+          "end": 75.86,
+          "probability": 0.9981328845024109
+        },
+        {
+          "word": " what",
+          "start": 75.86,
+          "end": 76.04,
+          "probability": 0.9917431473731995
+        },
+        {
+          "word": " we",
+          "start": 76.04,
+          "end": 76.22,
+          "probability": 0.9944421648979187
+        },
+        {
+          "word": " call",
+          "start": 76.22,
+          "end": 76.42,
+          "probability": 0.9799854755401611
+        },
+        {
+          "word": " a",
+          "start": 76.42,
+          "end": 76.66,
+          "probability": 0.939751923084259
+        },
+        {
+          "word": " detailed",
+          "start": 76.66,
+          "end": 76.96,
+          "probability": 0.6233405470848083
+        },
+        {
+          "word": " cookie",
+          "start": 76.96,
+          "end": 77.32,
+          "probability": 0.9444292187690735
+        },
+        {
+          "word": " banner.",
+          "start": 77.32,
+          "end": 77.62,
+          "probability": 0.9963477253913879
+        }
+      ]
+    },
+    {
+      "text": "So, you can take details and you can see what type of cookies and plugins",
+      "start_ms": 78040,
+      "end_ms": 83400,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 78.04,
+          "end": 78.22,
+          "probability": 0.9442200064659119
+        },
+        {
+          "word": " you",
+          "start": 78.34,
+          "end": 78.48,
+          "probability": 0.9714287519454956
+        },
+        {
+          "word": " can",
+          "start": 78.48,
+          "end": 78.6,
+          "probability": 0.978991687297821
+        },
+        {
+          "word": " take",
+          "start": 78.6,
+          "end": 78.74,
+          "probability": 0.4033651649951935
+        },
+        {
+          "word": " details",
+          "start": 78.74,
+          "end": 79.16,
+          "probability": 0.9907992482185364
+        },
+        {
+          "word": " and",
+          "start": 79.16,
+          "end": 79.54,
+          "probability": 0.7703980207443237
+        },
+        {
+          "word": " you",
+          "start": 79.54,
+          "end": 79.66,
+          "probability": 0.9897247552871704
+        },
+        {
+          "word": " can",
+          "start": 79.66,
+          "end": 79.8,
+          "probability": 0.9743223786354065
+        },
+        {
+          "word": " see",
+          "start": 79.8,
+          "end": 79.98,
+          "probability": 0.9965007305145264
+        },
+        {
+          "word": " what",
+          "start": 79.98,
+          "end": 80.2,
+          "probability": 0.9928991794586182
+        },
+        {
+          "word": " type",
+          "start": 80.2,
+          "end": 80.52,
+          "probability": 0.9909418225288391
+        },
+        {
+          "word": " of",
+          "start": 80.52,
+          "end": 81.22,
+          "probability": 0.99648118019104
+        },
+        {
+          "word": " cookies",
+          "start": 81.22,
+          "end": 81.94,
+          "probability": 0.9595098495483398
+        },
+        {
+          "word": " and",
+          "start": 81.94,
+          "end": 83.34,
+          "probability": 0.980258584022522
+        },
+        {
+          "word": " plugins",
+          "start": 83.34,
+          "end": 83.62,
+          "probability": 0.8922246694564819
+        }
+      ]
+    },
+    {
+      "text": "we use on the website and your ability to change the dissentings right here.",
+      "start_ms": 83620,
+      "end_ms": 89320,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " we",
+          "start": 83.62,
+          "end": 84.44,
+          "probability": 0.0007989658624865115
+        },
+        {
+          "word": " use",
+          "start": 84.44,
+          "end": 85.14,
+          "probability": 0.9765281081199646
+        },
+        {
+          "word": " on",
+          "start": 85.14,
+          "end": 85.3,
+          "probability": 0.8302488923072815
+        },
+        {
+          "word": " the",
+          "start": 85.3,
+          "end": 85.38,
+          "probability": 0.9879170060157776
+        },
+        {
+          "word": " website",
+          "start": 85.38,
+          "end": 85.74,
+          "probability": 0.9714670181274414
+        },
+        {
+          "word": " and",
+          "start": 85.74,
+          "end": 86.28,
+          "probability": 0.7966532111167908
+        },
+        {
+          "word": " your",
+          "start": 86.28,
+          "end": 86.44,
+          "probability": 0.9896746277809143
+        },
+        {
+          "word": " ability",
+          "start": 86.44,
+          "end": 86.82,
+          "probability": 0.9550196528434753
+        },
+        {
+          "word": " to",
+          "start": 86.82,
+          "end": 87.08,
+          "probability": 0.9982690811157227
+        },
+        {
+          "word": " change",
+          "start": 87.08,
+          "end": 87.66,
+          "probability": 0.9973357319831848
+        },
+        {
+          "word": " the",
+          "start": 87.66,
+          "end": 88.1,
+          "probability": 0.9938539266586304
+        },
+        {
+          "word": " dissentings",
+          "start": 88.1,
+          "end": 88.84,
+          "probability": 0.5165741418798765
+        },
+        {
+          "word": " right",
+          "start": 88.84,
+          "end": 88.98,
+          "probability": 0.9802142381668091
+        },
+        {
+          "word": " here.",
+          "start": 88.98,
+          "end": 89.32,
+          "probability": 0.9970499277114868
+        }
+      ]
+    },
+    {
+      "text": "Other ways you can make it look and style to make it fit",
+      "start_ms": 89760,
+      "end_ms": 93460,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Other",
+          "start": 89.76,
+          "end": 90.16,
+          "probability": 0.858641505241394
+        },
+        {
+          "word": " ways",
+          "start": 90.16,
+          "end": 90.4,
+          "probability": 0.9960428476333618
+        },
+        {
+          "word": " you",
+          "start": 90.4,
+          "end": 90.84,
+          "probability": 0.8065379858016968
+        },
+        {
+          "word": " can",
+          "start": 90.84,
+          "end": 90.98,
+          "probability": 0.9982128143310547
+        },
+        {
+          "word": " make",
+          "start": 90.98,
+          "end": 91.14,
+          "probability": 0.9896236062049866
+        },
+        {
+          "word": " it",
+          "start": 91.14,
+          "end": 91.32,
+          "probability": 0.6650171875953674
+        },
+        {
+          "word": " look",
+          "start": 91.32,
+          "end": 91.48,
+          "probability": 0.9946675300598145
+        },
+        {
+          "word": " and",
+          "start": 91.48,
+          "end": 91.9,
+          "probability": 0.9535149931907654
+        },
+        {
+          "word": " style",
+          "start": 91.9,
+          "end": 92.56,
+          "probability": 0.7114284634590149
+        },
+        {
+          "word": " to",
+          "start": 92.56,
+          "end": 92.98,
+          "probability": 0.9449581503868103
+        },
+        {
+          "word": " make",
+          "start": 92.98,
+          "end": 93.12,
+          "probability": 0.9940350651741028
+        },
+        {
+          "word": " it",
+          "start": 93.12,
+          "end": 93.26,
+          "probability": 0.996455729007721
+        },
+        {
+          "word": " fit",
+          "start": 93.26,
+          "end": 93.46,
+          "probability": 0.9888719916343689
+        }
+      ]
+    },
+    {
+      "text": "in a beautiful way to your website is like this.",
+      "start_ms": 93460,
+      "end_ms": 96220,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " in",
+          "start": 93.46,
+          "end": 93.82,
+          "probability": 0.9662389159202576
+        },
+        {
+          "word": " a",
+          "start": 93.82,
+          "end": 93.9,
+          "probability": 0.940934956073761
+        },
+        {
+          "word": " beautiful",
+          "start": 93.9,
+          "end": 94.18,
+          "probability": 0.9958658218383789
+        },
+        {
+          "word": " way",
+          "start": 94.18,
+          "end": 94.4,
+          "probability": 0.9955867528915405
+        },
+        {
+          "word": " to",
+          "start": 94.4,
+          "end": 94.54,
+          "probability": 0.9921221137046814
+        },
+        {
+          "word": " your",
+          "start": 94.54,
+          "end": 94.64,
+          "probability": 0.9654402732849121
+        },
+        {
+          "word": " website",
+          "start": 94.64,
+          "end": 94.96,
+          "probability": 0.9927709698677063
+        },
+        {
+          "word": " is",
+          "start": 94.96,
+          "end": 95.46,
+          "probability": 0.914717972278595
+        },
+        {
+          "word": " like",
+          "start": 95.46,
+          "end": 95.92,
+          "probability": 0.8128890991210938
+        },
+        {
+          "word": " this.",
+          "start": 95.92,
+          "end": 96.22,
+          "probability": 0.9986360669136047
+        }
+      ]
+    },
+    {
+      "text": "And here's another beautiful way to make it stylish and make it fit your website.",
+      "start_ms": 97320,
+      "end_ms": 101700,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " And",
+          "start": 97.32,
+          "end": 97.32,
+          "probability": 0.874409019947052
+        },
+        {
+          "word": " here's",
+          "start": 97.32,
+          "end": 97.82,
+          "probability": 0.8309774398803711
+        },
+        {
+          "word": " another",
+          "start": 97.82,
+          "end": 98.06,
+          "probability": 0.9686763286590576
+        },
+        {
+          "word": " beautiful",
+          "start": 98.06,
+          "end": 99.02,
+          "probability": 0.6352607607841492
+        },
+        {
+          "word": " way",
+          "start": 99.02,
+          "end": 99.4,
+          "probability": 0.9954314231872559
+        },
+        {
+          "word": " to",
+          "start": 99.4,
+          "end": 99.62,
+          "probability": 0.9917353987693787
+        },
+        {
+          "word": " make",
+          "start": 99.62,
+          "end": 99.78,
+          "probability": 0.9962112903594971
+        },
+        {
+          "word": " it",
+          "start": 99.78,
+          "end": 99.94,
+          "probability": 0.991606593132019
+        },
+        {
+          "word": " stylish",
+          "start": 99.94,
+          "end": 100.34,
+          "probability": 0.4857935309410095
+        },
+        {
+          "word": " and",
+          "start": 100.34,
+          "end": 100.64,
+          "probability": 0.9564220905303955
+        },
+        {
+          "word": " make",
+          "start": 100.64,
+          "end": 100.9,
+          "probability": 0.9479570984840393
+        },
+        {
+          "word": " it",
+          "start": 100.9,
+          "end": 101.06,
+          "probability": 0.9965499639511108
+        },
+        {
+          "word": " fit",
+          "start": 101.06,
+          "end": 101.18,
+          "probability": 0.9955263733863831
+        },
+        {
+          "word": " your",
+          "start": 101.18,
+          "end": 101.36,
+          "probability": 0.9646897315979004
+        },
+        {
+          "word": " website.",
+          "start": 101.36,
+          "end": 101.7,
+          "probability": 0.9962614178657532
+        }
+      ]
+    },
+    {
+      "text": "So, you have a number of ways to make it look and feel perfect to your own website.",
+      "start_ms": 102120,
+      "end_ms": 106260,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 102.12,
+          "end": 102.3,
+          "probability": 0.9773030877113342
+        },
+        {
+          "word": " you",
+          "start": 102.3,
+          "end": 102.38,
+          "probability": 0.9936110377311707
+        },
+        {
+          "word": " have",
+          "start": 102.38,
+          "end": 102.46,
+          "probability": 0.9967923760414124
+        },
+        {
+          "word": " a",
+          "start": 102.46,
+          "end": 102.56,
+          "probability": 0.9981722831726074
+        },
+        {
+          "word": " number",
+          "start": 102.56,
+          "end": 102.92,
+          "probability": 0.9979377388954163
+        },
+        {
+          "word": " of",
+          "start": 102.92,
+          "end": 103.14,
+          "probability": 0.9988347887992859
+        },
+        {
+          "word": " ways",
+          "start": 103.14,
+          "end": 103.32,
+          "probability": 0.9996092915534973
+        },
+        {
+          "word": " to",
+          "start": 103.32,
+          "end": 103.54,
+          "probability": 0.996263325214386
+        },
+        {
+          "word": " make",
+          "start": 103.54,
+          "end": 103.66,
+          "probability": 0.9817326664924622
+        },
+        {
+          "word": " it",
+          "start": 103.66,
+          "end": 103.8,
+          "probability": 0.994066596031189
+        },
+        {
+          "word": " look",
+          "start": 103.8,
+          "end": 104.0,
+          "probability": 0.9926559925079346
+        },
+        {
+          "word": " and",
+          "start": 104.0,
+          "end": 104.22,
+          "probability": 0.9943819642066956
+        },
+        {
+          "word": " feel",
+          "start": 104.22,
+          "end": 104.46,
+          "probability": 0.9981005787849426
+        },
+        {
+          "word": " perfect",
+          "start": 104.46,
+          "end": 105.26,
+          "probability": 0.9976794123649597
+        },
+        {
+          "word": " to",
+          "start": 105.26,
+          "end": 105.64,
+          "probability": 0.9889853000640869
+        },
+        {
+          "word": " your",
+          "start": 105.64,
+          "end": 105.76,
+          "probability": 0.9990279674530029
+        },
+        {
+          "word": " own",
+          "start": 105.76,
+          "end": 105.9,
+          "probability": 0.9400749802589417
+        },
+        {
+          "word": " website.",
+          "start": 105.9,
+          "end": 106.26,
+          "probability": 0.9961013793945312
+        }
+      ]
+    },
+    {
+      "text": "Okay, now that's one of the areas we want to walk through in terms of the cookie banner.",
+      "start_ms": 106740,
+      "end_ms": 111580,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 106.74,
+          "end": 106.82,
+          "probability": 0.6410562992095947
+        },
+        {
+          "word": " now",
+          "start": 107.4,
+          "end": 107.64,
+          "probability": 0.9849107265472412
+        },
+        {
+          "word": " that's",
+          "start": 107.64,
+          "end": 108.34,
+          "probability": 0.9033987820148468
+        },
+        {
+          "word": " one",
+          "start": 108.34,
+          "end": 108.74,
+          "probability": 0.9964181184768677
+        },
+        {
+          "word": " of",
+          "start": 108.74,
+          "end": 108.9,
+          "probability": 0.9992030262947083
+        },
+        {
+          "word": " the",
+          "start": 108.9,
+          "end": 109.12,
+          "probability": 0.9983141422271729
+        },
+        {
+          "word": " areas",
+          "start": 109.12,
+          "end": 109.44,
+          "probability": 0.9981641173362732
+        },
+        {
+          "word": " we",
+          "start": 109.44,
+          "end": 109.68,
+          "probability": 0.924595296382904
+        },
+        {
+          "word": " want",
+          "start": 109.68,
+          "end": 109.8,
+          "probability": 0.4425521492958069
+        },
+        {
+          "word": " to",
+          "start": 109.8,
+          "end": 109.84,
+          "probability": 0.9976804256439209
+        },
+        {
+          "word": " walk",
+          "start": 109.84,
+          "end": 110.06,
+          "probability": 0.9935418367385864
+        },
+        {
+          "word": " through",
+          "start": 110.06,
+          "end": 110.36,
+          "probability": 0.9954184293746948
+        },
+        {
+          "word": " in",
+          "start": 110.36,
+          "end": 110.62,
+          "probability": 0.9636353850364685
+        },
+        {
+          "word": " terms",
+          "start": 110.62,
+          "end": 110.78,
+          "probability": 0.9973893761634827
+        },
+        {
+          "word": " of",
+          "start": 110.78,
+          "end": 111.02,
+          "probability": 0.9993115663528442
+        },
+        {
+          "word": " the",
+          "start": 111.02,
+          "end": 111.1,
+          "probability": 0.9606165289878845
+        },
+        {
+          "word": " cookie",
+          "start": 111.1,
+          "end": 111.3,
+          "probability": 0.4167046844959259
+        },
+        {
+          "word": " banner.",
+          "start": 111.3,
+          "end": 111.58,
+          "probability": 0.9744422435760498
+        }
+      ]
+    },
+    {
+      "text": "A second part is have you made it easy to withdraw consent?",
+      "start_ms": 111580,
+      "end_ms": 116500,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " A",
+          "start": 111.58,
+          "end": 112.58,
+          "probability": 0.11486798524856567
+        },
+        {
+          "word": " second",
+          "start": 112.58,
+          "end": 112.88,
+          "probability": 0.9895287156105042
+        },
+        {
+          "word": " part",
+          "start": 112.88,
+          "end": 113.14,
+          "probability": 0.8867943286895752
+        },
+        {
+          "word": " is",
+          "start": 113.14,
+          "end": 113.4,
+          "probability": 0.9652769565582275
+        },
+        {
+          "word": " have",
+          "start": 113.4,
+          "end": 113.96,
+          "probability": 0.4934205412864685
+        },
+        {
+          "word": " you",
+          "start": 113.96,
+          "end": 114.18,
+          "probability": 0.9840008020401001
+        },
+        {
+          "word": " made",
+          "start": 114.18,
+          "end": 114.34,
+          "probability": 0.9703550934791565
+        },
+        {
+          "word": " it",
+          "start": 114.34,
+          "end": 114.5,
+          "probability": 0.9936830997467041
+        },
+        {
+          "word": " easy",
+          "start": 114.5,
+          "end": 114.88,
+          "probability": 0.9880765676498413
+        },
+        {
+          "word": " to",
+          "start": 114.88,
+          "end": 115.26,
+          "probability": 0.9918025135993958
+        },
+        {
+          "word": " withdraw",
+          "start": 115.26,
+          "end": 115.78,
+          "probability": 0.46597960591316223
+        },
+        {
+          "word": " consent?",
+          "start": 115.78,
+          "end": 116.5,
+          "probability": 0.9316155314445496
+        }
+      ]
+    },
+    {
+      "text": "Okay, so from a technical aspect, this is quite complicated.",
+      "start_ms": 117340,
+      "end_ms": 121380,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 117.34,
+          "end": 117.44,
+          "probability": 0.6075830459594727
+        },
+        {
+          "word": " so",
+          "start": 117.84,
+          "end": 118.66,
+          "probability": 0.9867193102836609
+        },
+        {
+          "word": " from",
+          "start": 118.66,
+          "end": 119.0,
+          "probability": 0.9744179248809814
+        },
+        {
+          "word": " a",
+          "start": 119.0,
+          "end": 119.14,
+          "probability": 0.9948371648788452
+        },
+        {
+          "word": " technical",
+          "start": 119.14,
+          "end": 119.48,
+          "probability": 0.9960235357284546
+        },
+        {
+          "word": " aspect,",
+          "start": 119.48,
+          "end": 119.96,
+          "probability": 0.9976964592933655
+        },
+        {
+          "word": " this",
+          "start": 119.96,
+          "end": 120.18,
+          "probability": 0.9931772947311401
+        },
+        {
+          "word": " is",
+          "start": 120.18,
+          "end": 120.3,
+          "probability": 0.99587482213974
+        },
+        {
+          "word": " quite",
+          "start": 120.3,
+          "end": 120.58,
+          "probability": 0.9986691474914551
+        },
+        {
+          "word": " complicated.",
+          "start": 120.58,
+          "end": 121.38,
+          "probability": 0.9962198138237
+        }
+      ]
+    },
+    {
+      "text": "So, in this case, let's say that I have now consented for the cookies and trackers.",
+      "start_ms": 121780,
+      "end_ms": 126520,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 121.78,
+          "end": 122.0,
+          "probability": 0.9772616624832153
+        },
+        {
+          "word": " in",
+          "start": 122.14,
+          "end": 122.26,
+          "probability": 0.9981392621994019
+        },
+        {
+          "word": " this",
+          "start": 122.26,
+          "end": 122.4,
+          "probability": 0.9990696310997009
+        },
+        {
+          "word": " case,",
+          "start": 122.4,
+          "end": 122.72,
+          "probability": 0.9994366765022278
+        },
+        {
+          "word": " let's",
+          "start": 123.0,
+          "end": 123.36,
+          "probability": 0.9955796599388123
+        },
+        {
+          "word": " say",
+          "start": 123.36,
+          "end": 123.54,
+          "probability": 0.9981970191001892
+        },
+        {
+          "word": " that",
+          "start": 123.54,
+          "end": 123.74,
+          "probability": 0.9813758134841919
+        },
+        {
+          "word": " I",
+          "start": 123.74,
+          "end": 123.92,
+          "probability": 0.9947682619094849
+        },
+        {
+          "word": " have",
+          "start": 123.92,
+          "end": 124.06,
+          "probability": 0.9776020646095276
+        },
+        {
+          "word": " now",
+          "start": 124.06,
+          "end": 124.28,
+          "probability": 0.9971869587898254
+        },
+        {
+          "word": " consented",
+          "start": 124.28,
+          "end": 125.0,
+          "probability": 0.9365948736667633
+        },
+        {
+          "word": " for",
+          "start": 125.0,
+          "end": 125.5,
+          "probability": 0.9929745197296143
+        },
+        {
+          "word": " the",
+          "start": 125.5,
+          "end": 125.6,
+          "probability": 0.7788008451461792
+        },
+        {
+          "word": " cookies",
+          "start": 125.6,
+          "end": 125.86,
+          "probability": 0.7474844455718994
+        },
+        {
+          "word": " and",
+          "start": 125.86,
+          "end": 126.04,
+          "probability": 0.946893572807312
+        },
+        {
+          "word": " trackers.",
+          "start": 126.04,
+          "end": 126.52,
+          "probability": 0.9639003872871399
+        }
+      ]
+    },
+    {
+      "text": "Now, how do you actually change the consent?",
+      "start_ms": 126900,
+      "end_ms": 131640,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 126.9,
+          "end": 127.02,
+          "probability": 0.9751099944114685
+        },
+        {
+          "word": " how",
+          "start": 127.32,
+          "end": 127.64,
+          "probability": 0.9972769618034363
+        },
+        {
+          "word": " do",
+          "start": 127.64,
+          "end": 127.84,
+          "probability": 0.9950721859931946
+        },
+        {
+          "word": " you",
+          "start": 127.84,
+          "end": 127.98,
+          "probability": 0.9976142644882202
+        },
+        {
+          "word": " actually",
+          "start": 127.98,
+          "end": 128.58,
+          "probability": 0.9979312419891357
+        },
+        {
+          "word": " change",
+          "start": 128.58,
+          "end": 130.28,
+          "probability": 0.985614001750946
+        },
+        {
+          "word": " the",
+          "start": 130.28,
+          "end": 130.8,
+          "probability": 0.9977756142616272
+        },
+        {
+          "word": " consent?",
+          "start": 130.8,
+          "end": 131.64,
+          "probability": 0.8948314189910889
+        }
+      ]
+    },
+    {
+      "text": "Now, you may have difficulty because of the little widget down here.",
+      "start_ms": 132100,
+      "end_ms": 135460,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 132.1,
+          "end": 132.34,
+          "probability": 0.9857204556465149
+        },
+        {
+          "word": " you",
+          "start": 132.58,
+          "end": 132.68,
+          "probability": 0.9972234964370728
+        },
+        {
+          "word": " may",
+          "start": 132.68,
+          "end": 132.86,
+          "probability": 0.998079776763916
+        },
+        {
+          "word": " have",
+          "start": 132.86,
+          "end": 133.38,
+          "probability": 0.998556911945343
+        },
+        {
+          "word": " difficulty",
+          "start": 133.38,
+          "end": 133.7,
+          "probability": 0.847183883190155
+        },
+        {
+          "word": " because",
+          "start": 133.7,
+          "end": 134.3,
+          "probability": 0.8009241223335266
+        },
+        {
+          "word": " of",
+          "start": 134.3,
+          "end": 134.48,
+          "probability": 0.9469677805900574
+        },
+        {
+          "word": " the",
+          "start": 134.48,
+          "end": 134.6,
+          "probability": 0.9491111636161804
+        },
+        {
+          "word": " little",
+          "start": 134.6,
+          "end": 134.78,
+          "probability": 0.9791824221611023
+        },
+        {
+          "word": " widget",
+          "start": 134.78,
+          "end": 135.02,
+          "probability": 0.40170010924339294
+        },
+        {
+          "word": " down",
+          "start": 135.02,
+          "end": 135.24,
+          "probability": 0.9907221794128418
+        },
+        {
+          "word": " here.",
+          "start": 135.24,
+          "end": 135.46,
+          "probability": 0.9967376589775085
+        }
+      ]
+    },
+    {
+      "text": "But we actually have what we call a trust badge,",
+      "start_ms": 135880,
+      "end_ms": 138980,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " But",
+          "start": 135.88,
+          "end": 136.0,
+          "probability": 0.9852403402328491
+        },
+        {
+          "word": " we",
+          "start": 136.0,
+          "end": 136.24,
+          "probability": 0.8908849954605103
+        },
+        {
+          "word": " actually",
+          "start": 136.24,
+          "end": 136.76,
+          "probability": 0.9970916509628296
+        },
+        {
+          "word": " have",
+          "start": 136.76,
+          "end": 137.24,
+          "probability": 0.9965226650238037
+        },
+        {
+          "word": " what",
+          "start": 137.24,
+          "end": 137.96,
+          "probability": 0.9022037982940674
+        },
+        {
+          "word": " we",
+          "start": 137.96,
+          "end": 138.08,
+          "probability": 0.9800412058830261
+        },
+        {
+          "word": " call",
+          "start": 138.08,
+          "end": 138.22,
+          "probability": 0.990874171257019
+        },
+        {
+          "word": " a",
+          "start": 138.22,
+          "end": 138.36,
+          "probability": 0.9534264206886292
+        },
+        {
+          "word": " trust",
+          "start": 138.36,
+          "end": 138.56,
+          "probability": 0.5597068667411804
+        },
+        {
+          "word": " badge,",
+          "start": 138.56,
+          "end": 138.98,
+          "probability": 0.2809998691082001
+        }
+      ]
+    },
+    {
+      "text": "which you can move in different locations on the website.",
+      "start_ms": 138980,
+      "end_ms": 141340,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " which",
+          "start": 138.98,
+          "end": 139.26,
+          "probability": 0.5621247291564941
+        },
+        {
+          "word": " you",
+          "start": 139.26,
+          "end": 139.44,
+          "probability": 0.9689438343048096
+        },
+        {
+          "word": " can",
+          "start": 139.44,
+          "end": 139.6,
+          "probability": 0.9942956566810608
+        },
+        {
+          "word": " move",
+          "start": 139.6,
+          "end": 139.84,
+          "probability": 0.9916257858276367
+        },
+        {
+          "word": " in",
+          "start": 139.84,
+          "end": 139.96,
+          "probability": 0.7876582145690918
+        },
+        {
+          "word": " different",
+          "start": 139.96,
+          "end": 140.16,
+          "probability": 0.9029662609100342
+        },
+        {
+          "word": " locations",
+          "start": 140.16,
+          "end": 140.62,
+          "probability": 0.7946966290473938
+        },
+        {
+          "word": " on",
+          "start": 140.62,
+          "end": 140.8,
+          "probability": 0.37545046210289
+        },
+        {
+          "word": " the",
+          "start": 140.8,
+          "end": 140.9,
+          "probability": 0.8869957327842712
+        },
+        {
+          "word": " website.",
+          "start": 140.9,
+          "end": 141.34,
+          "probability": 0.905381441116333
+        }
+      ]
+    },
+    {
+      "text": "But what's really smart about it is that it is interactive.",
+      "start_ms": 142020,
+      "end_ms": 145380,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " But",
+          "start": 142.02,
+          "end": 142.26,
+          "probability": 0.9393847584724426
+        },
+        {
+          "word": " what's",
+          "start": 142.26,
+          "end": 143.46,
+          "probability": 0.9388390481472015
+        },
+        {
+          "word": " really",
+          "start": 143.46,
+          "end": 143.64,
+          "probability": 0.9983460903167725
+        },
+        {
+          "word": " smart",
+          "start": 143.64,
+          "end": 143.9,
+          "probability": 0.9727041125297546
+        },
+        {
+          "word": " about",
+          "start": 143.9,
+          "end": 144.1,
+          "probability": 0.9957214593887329
+        },
+        {
+          "word": " it",
+          "start": 144.1,
+          "end": 144.26,
+          "probability": 0.9792948961257935
+        },
+        {
+          "word": " is",
+          "start": 144.26,
+          "end": 144.44,
+          "probability": 0.9012062549591064
+        },
+        {
+          "word": " that",
+          "start": 144.44,
+          "end": 144.58,
+          "probability": 0.9864978194236755
+        },
+        {
+          "word": " it",
+          "start": 144.58,
+          "end": 144.78,
+          "probability": 0.9604160785675049
+        },
+        {
+          "word": " is",
+          "start": 144.78,
+          "end": 144.96,
+          "probability": 0.6801938414573669
+        },
+        {
+          "word": " interactive.",
+          "start": 144.96,
+          "end": 145.38,
+          "probability": 0.975721001625061
+        }
+      ]
+    },
+    {
+      "text": "So, in the case of, let's say, analytics, it provides you an ability to opt in,",
+      "start_ms": 145740,
+      "end_ms": 150720,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 145.74,
+          "end": 145.74,
+          "probability": 0.9190686345100403
+        },
+        {
+          "word": " in",
+          "start": 145.84,
+          "end": 145.88,
+          "probability": 0.9907190203666687
+        },
+        {
+          "word": " the",
+          "start": 145.88,
+          "end": 145.98,
+          "probability": 0.9843160510063171
+        },
+        {
+          "word": " case",
+          "start": 145.98,
+          "end": 146.22,
+          "probability": 0.9976534247398376
+        },
+        {
+          "word": " of,",
+          "start": 146.22,
+          "end": 146.72,
+          "probability": 0.9833614230155945
+        },
+        {
+          "word": " let's",
+          "start": 146.84,
+          "end": 147.4,
+          "probability": 0.9635160267353058
+        },
+        {
+          "word": " say,",
+          "start": 147.4,
+          "end": 147.52,
+          "probability": 0.9979405999183655
+        },
+        {
+          "word": " analytics,",
+          "start": 147.74,
+          "end": 148.12,
+          "probability": 0.7088318467140198
+        },
+        {
+          "word": " it",
+          "start": 148.56,
+          "end": 148.72,
+          "probability": 0.9949316382408142
+        },
+        {
+          "word": " provides",
+          "start": 148.72,
+          "end": 149.08,
+          "probability": 0.9615975618362427
+        },
+        {
+          "word": " you",
+          "start": 149.08,
+          "end": 149.34,
+          "probability": 0.849547266960144
+        },
+        {
+          "word": " an",
+          "start": 149.34,
+          "end": 149.42,
+          "probability": 0.9763720631599426
+        },
+        {
+          "word": " ability",
+          "start": 149.42,
+          "end": 149.74,
+          "probability": 0.9959561228752136
+        },
+        {
+          "word": " to",
+          "start": 149.74,
+          "end": 150.14,
+          "probability": 0.9978347420692444
+        },
+        {
+          "word": " opt",
+          "start": 150.14,
+          "end": 150.4,
+          "probability": 0.9519524574279785
+        },
+        {
+          "word": " in,",
+          "start": 150.4,
+          "end": 150.72,
+          "probability": 0.7902223467826843
+        }
+      ]
+    },
+    {
+      "text": "but also opt out and basically change the users previously given consent as well.",
+      "start_ms": 150900,
+      "end_ms": 157140,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " but",
+          "start": 150.9,
+          "end": 150.96,
+          "probability": 0.9940977096557617
+        },
+        {
+          "word": " also",
+          "start": 150.96,
+          "end": 151.22,
+          "probability": 0.996900200843811
+        },
+        {
+          "word": " opt",
+          "start": 151.22,
+          "end": 151.46,
+          "probability": 0.9895408749580383
+        },
+        {
+          "word": " out",
+          "start": 151.46,
+          "end": 151.88,
+          "probability": 0.9513683915138245
+        },
+        {
+          "word": " and",
+          "start": 151.88,
+          "end": 152.64,
+          "probability": 0.6103863716125488
+        },
+        {
+          "word": " basically",
+          "start": 152.64,
+          "end": 153.12,
+          "probability": 0.9791032671928406
+        },
+        {
+          "word": " change",
+          "start": 153.12,
+          "end": 153.54,
+          "probability": 0.9472247362136841
+        },
+        {
+          "word": " the",
+          "start": 153.54,
+          "end": 154.24,
+          "probability": 0.9522568583488464
+        },
+        {
+          "word": " users",
+          "start": 154.24,
+          "end": 154.64,
+          "probability": 0.5657569766044617
+        },
+        {
+          "word": " previously",
+          "start": 154.64,
+          "end": 155.3,
+          "probability": 0.9583960771560669
+        },
+        {
+          "word": " given",
+          "start": 155.3,
+          "end": 155.7,
+          "probability": 0.734908938407898
+        },
+        {
+          "word": " consent",
+          "start": 155.7,
+          "end": 156.22,
+          "probability": 0.7937508225440979
+        },
+        {
+          "word": " as",
+          "start": 156.22,
+          "end": 156.9,
+          "probability": 0.915866494178772
+        },
+        {
+          "word": " well.",
+          "start": 156.9,
+          "end": 157.14,
+          "probability": 0.9981597065925598
+        }
+      ]
+    },
+    {
+      "text": "And that's something we document inside our back end as well.",
+      "start_ms": 157660,
+      "end_ms": 161220,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " And",
+          "start": 157.66,
+          "end": 157.72,
+          "probability": 0.8266735672950745
+        },
+        {
+          "word": " that's",
+          "start": 157.72,
+          "end": 158.04,
+          "probability": 0.9342409074306488
+        },
+        {
+          "word": " something",
+          "start": 158.04,
+          "end": 158.3,
+          "probability": 0.9970138072967529
+        },
+        {
+          "word": " we",
+          "start": 158.3,
+          "end": 158.5,
+          "probability": 0.9793511629104614
+        },
+        {
+          "word": " document",
+          "start": 158.5,
+          "end": 159.02,
+          "probability": 0.913975715637207
+        },
+        {
+          "word": " inside",
+          "start": 159.02,
+          "end": 160.04,
+          "probability": 0.9742980599403381
+        },
+        {
+          "word": " our",
+          "start": 160.04,
+          "end": 160.46,
+          "probability": 0.994746744632721
+        },
+        {
+          "word": " back",
+          "start": 160.46,
+          "end": 160.72,
+          "probability": 0.3667302131652832
+        },
+        {
+          "word": " end",
+          "start": 160.72,
+          "end": 160.9,
+          "probability": 0.8317803740501404
+        },
+        {
+          "word": " as",
+          "start": 160.9,
+          "end": 161.02,
+          "probability": 0.9466564655303955
+        },
+        {
+          "word": " well.",
+          "start": 161.02,
+          "end": 161.22,
+          "probability": 0.9989226460456848
+        }
+      ]
+    },
+    {
+      "text": "Okay, so that's a way to communicate additional privacy information,",
+      "start_ms": 161560,
+      "end_ms": 164840,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 161.56,
+          "end": 161.72,
+          "probability": 0.6027599573135376
+        },
+        {
+          "word": " so",
+          "start": 162.16,
+          "end": 162.32,
+          "probability": 0.976556658744812
+        },
+        {
+          "word": " that's",
+          "start": 162.32,
+          "end": 162.6,
+          "probability": 0.94683438539505
+        },
+        {
+          "word": " a",
+          "start": 162.6,
+          "end": 162.72,
+          "probability": 0.6510536074638367
+        },
+        {
+          "word": " way",
+          "start": 162.72,
+          "end": 162.84,
+          "probability": 0.999504566192627
+        },
+        {
+          "word": " to",
+          "start": 162.84,
+          "end": 163.06,
+          "probability": 0.997026264667511
+        },
+        {
+          "word": " communicate",
+          "start": 163.06,
+          "end": 163.46,
+          "probability": 0.9919850826263428
+        },
+        {
+          "word": " additional",
+          "start": 163.46,
+          "end": 163.9,
+          "probability": 0.9952326416969299
+        },
+        {
+          "word": " privacy",
+          "start": 163.9,
+          "end": 164.32,
+          "probability": 0.9977178573608398
+        },
+        {
+          "word": " information,",
+          "start": 164.32,
+          "end": 164.84,
+          "probability": 0.9957668781280518
+        }
+      ]
+    },
+    {
+      "text": "but also to be very transparent and provide the ability for the user to withdraw consent at a later time.",
+      "start_ms": 164840,
+      "end_ms": 171500,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " but",
+          "start": 164.84,
+          "end": 165.08,
+          "probability": 0.6539760231971741
+        },
+        {
+          "word": " also",
+          "start": 165.08,
+          "end": 165.44,
+          "probability": 0.9899452328681946
+        },
+        {
+          "word": " to",
+          "start": 165.44,
+          "end": 165.84,
+          "probability": 0.9287013411521912
+        },
+        {
+          "word": " be",
+          "start": 165.84,
+          "end": 165.94,
+          "probability": 0.9981221556663513
+        },
+        {
+          "word": " very",
+          "start": 165.94,
+          "end": 166.16,
+          "probability": 0.9803322553634644
+        },
+        {
+          "word": " transparent",
+          "start": 166.16,
+          "end": 166.64,
+          "probability": 0.9990664124488831
+        },
+        {
+          "word": " and",
+          "start": 166.64,
+          "end": 167.26,
+          "probability": 0.9144260287284851
+        },
+        {
+          "word": " provide",
+          "start": 167.26,
+          "end": 167.56,
+          "probability": 0.9925963878631592
+        },
+        {
+          "word": " the",
+          "start": 167.56,
+          "end": 167.8,
+          "probability": 0.9941516518592834
+        },
+        {
+          "word": " ability",
+          "start": 167.8,
+          "end": 168.24,
+          "probability": 0.9896753430366516
+        },
+        {
+          "word": " for",
+          "start": 168.24,
+          "end": 168.6,
+          "probability": 0.9195117354393005
+        },
+        {
+          "word": " the",
+          "start": 168.6,
+          "end": 169.02,
+          "probability": 0.9856469035148621
+        },
+        {
+          "word": " user",
+          "start": 169.02,
+          "end": 169.24,
+          "probability": 0.9504315853118896
+        },
+        {
+          "word": " to",
+          "start": 169.24,
+          "end": 169.48,
+          "probability": 0.9955819249153137
+        },
+        {
+          "word": " withdraw",
+          "start": 169.48,
+          "end": 169.8,
+          "probability": 0.9595878720283508
+        },
+        {
+          "word": " consent",
+          "start": 169.8,
+          "end": 170.26,
+          "probability": 0.9364328980445862
+        },
+        {
+          "word": " at",
+          "start": 170.26,
+          "end": 170.8,
+          "probability": 0.9802864193916321
+        },
+        {
+          "word": " a",
+          "start": 170.8,
+          "end": 170.9,
+          "probability": 0.9870606660842896
+        },
+        {
+          "word": " later",
+          "start": 170.9,
+          "end": 171.12,
+          "probability": 0.9864305257797241
+        },
+        {
+          "word": " time.",
+          "start": 171.12,
+          "end": 171.5,
+          "probability": 0.9968308806419373
+        }
+      ]
+    },
+    {
+      "text": "Okay, so very important.",
+      "start_ms": 171900,
+      "end_ms": 172980,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 171.9,
+          "end": 171.96,
+          "probability": 0.6158718466758728
+        },
+        {
+          "word": " so",
+          "start": 172.18,
+          "end": 172.34,
+          "probability": 0.9953492283821106
+        },
+        {
+          "word": " very",
+          "start": 172.34,
+          "end": 172.52,
+          "probability": 0.9795830845832825
+        },
+        {
+          "word": " important.",
+          "start": 172.52,
+          "end": 172.98,
+          "probability": 0.9992579817771912
+        }
+      ]
+    },
+    {
+      "text": "So, that is the second point.",
+      "start_ms": 173700,
+      "end_ms": 175760,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 173.7,
+          "end": 173.98,
+          "probability": 0.991888701915741
+        },
+        {
+          "word": " that",
+          "start": 174.18,
+          "end": 174.36,
+          "probability": 0.9970903396606445
+        },
+        {
+          "word": " is",
+          "start": 174.36,
+          "end": 174.7,
+          "probability": 0.9964666366577148
+        },
+        {
+          "word": " the",
+          "start": 174.7,
+          "end": 175.0,
+          "probability": 0.9982665181159973
+        },
+        {
+          "word": " second",
+          "start": 175.0,
+          "end": 175.46,
+          "probability": 0.989977240562439
+        },
+        {
+          "word": " point.",
+          "start": 175.46,
+          "end": 175.76,
+          "probability": 0.9975230097770691
+        }
+      ]
+    },
+    {
+      "text": "Now, the third point is do you have evidence of valid consent?",
+      "start_ms": 176020,
+      "end_ms": 180420,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 176.02,
+          "end": 176.16,
+          "probability": 0.993657648563385
+        },
+        {
+          "word": " the",
+          "start": 176.36,
+          "end": 176.42,
+          "probability": 0.9936645030975342
+        },
+        {
+          "word": " third",
+          "start": 176.42,
+          "end": 176.66,
+          "probability": 0.9981745481491089
+        },
+        {
+          "word": " point",
+          "start": 176.66,
+          "end": 177.02,
+          "probability": 0.996625542640686
+        },
+        {
+          "word": " is",
+          "start": 177.02,
+          "end": 177.42,
+          "probability": 0.9942318797111511
+        },
+        {
+          "word": " do",
+          "start": 177.42,
+          "end": 178.1,
+          "probability": 0.5662305355072021
+        },
+        {
+          "word": " you",
+          "start": 178.1,
+          "end": 178.24,
+          "probability": 0.9973581433296204
+        },
+        {
+          "word": " have",
+          "start": 178.24,
+          "end": 178.44,
+          "probability": 0.998776376247406
+        },
+        {
+          "word": " evidence",
+          "start": 178.44,
+          "end": 178.86,
+          "probability": 0.9957913160324097
+        },
+        {
+          "word": " of",
+          "start": 178.86,
+          "end": 179.3,
+          "probability": 0.9966631531715393
+        },
+        {
+          "word": " valid",
+          "start": 179.3,
+          "end": 179.8,
+          "probability": 0.9950346946716309
+        },
+        {
+          "word": " consent?",
+          "start": 179.8,
+          "end": 180.42,
+          "probability": 0.9842960834503174
+        }
+      ]
+    },
+    {
+      "text": "I want to show you how it looks inside the administration panel.",
+      "start_ms": 181180,
+      "end_ms": 184620,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " I",
+          "start": 181.18,
+          "end": 181.5,
+          "probability": 0.9980530738830566
+        },
+        {
+          "word": " want",
+          "start": 181.5,
+          "end": 181.6,
+          "probability": 0.7815296649932861
+        },
+        {
+          "word": " to",
+          "start": 181.6,
+          "end": 181.7,
+          "probability": 0.9973234534263611
+        },
+        {
+          "word": " show",
+          "start": 181.7,
+          "end": 181.96,
+          "probability": 0.9988138675689697
+        },
+        {
+          "word": " you",
+          "start": 181.96,
+          "end": 182.16,
+          "probability": 0.9975736737251282
+        },
+        {
+          "word": " how",
+          "start": 182.16,
+          "end": 182.34,
+          "probability": 0.997717022895813
+        },
+        {
+          "word": " it",
+          "start": 182.34,
+          "end": 182.5,
+          "probability": 0.9928508996963501
+        },
+        {
+          "word": " looks",
+          "start": 182.5,
+          "end": 182.6,
+          "probability": 0.9874026775360107
+        },
+        {
+          "word": " inside",
+          "start": 182.6,
+          "end": 183.32,
+          "probability": 0.9945273995399475
+        },
+        {
+          "word": " the",
+          "start": 183.32,
+          "end": 183.56,
+          "probability": 0.9978773593902588
+        },
+        {
+          "word": " administration",
+          "start": 183.56,
+          "end": 184.08,
+          "probability": 0.8358592987060547
+        },
+        {
+          "word": " panel.",
+          "start": 184.08,
+          "end": 184.62,
+          "probability": 0.9874635934829712
+        }
+      ]
+    },
+    {
+      "text": "So, if I go to consent tracking and let's say I now press refresh right here,",
+      "start_ms": 184620,
+      "end_ms": 191680,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 184.62,
+          "end": 184.92,
+          "probability": 0.9881398677825928
+        },
+        {
+          "word": " if",
+          "start": 185.0,
+          "end": 185.18,
+          "probability": 0.9943798184394836
+        },
+        {
+          "word": " I",
+          "start": 185.18,
+          "end": 185.28,
+          "probability": 0.9920533895492554
+        },
+        {
+          "word": " go",
+          "start": 185.28,
+          "end": 185.5,
+          "probability": 0.998572587966919
+        },
+        {
+          "word": " to",
+          "start": 185.5,
+          "end": 185.78,
+          "probability": 0.9980252981185913
+        },
+        {
+          "word": " consent",
+          "start": 185.78,
+          "end": 186.58,
+          "probability": 0.891141951084137
+        },
+        {
+          "word": " tracking",
+          "start": 186.58,
+          "end": 187.34,
+          "probability": 0.9936595559120178
+        },
+        {
+          "word": " and",
+          "start": 187.34,
+          "end": 188.56,
+          "probability": 0.6920431852340698
+        },
+        {
+          "word": " let's",
+          "start": 188.56,
+          "end": 188.96,
+          "probability": 0.9342629611492157
+        },
+        {
+          "word": " say",
+          "start": 188.96,
+          "end": 189.08,
+          "probability": 0.9981014132499695
+        },
+        {
+          "word": " I",
+          "start": 189.08,
+          "end": 189.3,
+          "probability": 0.9082815051078796
+        },
+        {
+          "word": " now",
+          "start": 189.3,
+          "end": 189.76,
+          "probability": 0.9829891324043274
+        },
+        {
+          "word": " press",
+          "start": 189.76,
+          "end": 190.52,
+          "probability": 0.9960469603538513
+        },
+        {
+          "word": " refresh",
+          "start": 190.52,
+          "end": 191.2,
+          "probability": 0.8597639203071594
+        },
+        {
+          "word": " right",
+          "start": 191.2,
+          "end": 191.44,
+          "probability": 0.9787060618400574
+        },
+        {
+          "word": " here,",
+          "start": 191.44,
+          "end": 191.68,
+          "probability": 0.9988847374916077
+        }
+      ]
+    },
+    {
+      "text": "you can then see that I have now declined for analytics right here.",
+      "start_ms": 191680,
+      "end_ms": 197360,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " you",
+          "start": 191.68,
+          "end": 192.2,
+          "probability": 0.29400354623794556
+        },
+        {
+          "word": " can",
+          "start": 192.2,
+          "end": 192.32,
+          "probability": 0.9936686158180237
+        },
+        {
+          "word": " then",
+          "start": 192.32,
+          "end": 192.48,
+          "probability": 0.9859068393707275
+        },
+        {
+          "word": " see",
+          "start": 192.48,
+          "end": 192.8,
+          "probability": 0.9986090064048767
+        },
+        {
+          "word": " that",
+          "start": 192.8,
+          "end": 193.38,
+          "probability": 0.9919248223304749
+        },
+        {
+          "word": " I",
+          "start": 193.38,
+          "end": 193.7,
+          "probability": 0.9867782592773438
+        },
+        {
+          "word": " have",
+          "start": 193.7,
+          "end": 194.0,
+          "probability": 0.9942078590393066
+        },
+        {
+          "word": " now",
+          "start": 194.0,
+          "end": 194.34,
+          "probability": 0.9955446124076843
+        },
+        {
+          "word": " declined",
+          "start": 194.34,
+          "end": 195.36,
+          "probability": 0.7944291830062866
+        },
+        {
+          "word": " for",
+          "start": 195.36,
+          "end": 196.16,
+          "probability": 0.9058558940887451
+        },
+        {
+          "word": " analytics",
+          "start": 196.16,
+          "end": 196.64,
+          "probability": 0.7690008282661438
+        },
+        {
+          "word": " right",
+          "start": 196.64,
+          "end": 197.1,
+          "probability": 0.9874154925346375
+        },
+        {
+          "word": " here.",
+          "start": 197.1,
+          "end": 197.36,
+          "probability": 0.9984392523765564
+        }
+      ]
+    },
+    {
+      "text": "So, you can basically see that I have declined and we now have a record of the consent in real time,",
+      "start_ms": 198280,
+      "end_ms": 204860,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 198.28,
+          "end": 198.52,
+          "probability": 0.9336204528808594
+        },
+        {
+          "word": " you",
+          "start": 198.54,
+          "end": 198.64,
+          "probability": 0.9966270923614502
+        },
+        {
+          "word": " can",
+          "start": 198.64,
+          "end": 198.72,
+          "probability": 0.9957268238067627
+        },
+        {
+          "word": " basically",
+          "start": 198.72,
+          "end": 198.98,
+          "probability": 0.959443986415863
+        },
+        {
+          "word": " see",
+          "start": 198.98,
+          "end": 199.28,
+          "probability": 0.9850102066993713
+        },
+        {
+          "word": " that",
+          "start": 199.28,
+          "end": 199.44,
+          "probability": 0.9958863854408264
+        },
+        {
+          "word": " I",
+          "start": 199.44,
+          "end": 199.6,
+          "probability": 0.995122492313385
+        },
+        {
+          "word": " have",
+          "start": 199.6,
+          "end": 199.84,
+          "probability": 0.9972232580184937
+        },
+        {
+          "word": " declined",
+          "start": 199.84,
+          "end": 200.58,
+          "probability": 0.9864441752433777
+        },
+        {
+          "word": " and",
+          "start": 200.58,
+          "end": 201.06,
+          "probability": 0.6917040348052979
+        },
+        {
+          "word": " we",
+          "start": 201.06,
+          "end": 201.28,
+          "probability": 0.9440297484397888
+        },
+        {
+          "word": " now",
+          "start": 201.28,
+          "end": 201.5,
+          "probability": 0.9949678778648376
+        },
+        {
+          "word": " have",
+          "start": 201.5,
+          "end": 201.72,
+          "probability": 0.9852159023284912
+        },
+        {
+          "word": " a",
+          "start": 201.72,
+          "end": 201.9,
+          "probability": 0.9916179776191711
+        },
+        {
+          "word": " record",
+          "start": 201.9,
+          "end": 202.2,
+          "probability": 0.9915093183517456
+        },
+        {
+          "word": " of",
+          "start": 202.2,
+          "end": 202.46,
+          "probability": 0.9971476197242737
+        },
+        {
+          "word": " the",
+          "start": 202.46,
+          "end": 202.6,
+          "probability": 0.9927161335945129
+        },
+        {
+          "word": " consent",
+          "start": 202.6,
+          "end": 203.04,
+          "probability": 0.8834551572799683
+        },
+        {
+          "word": " in",
+          "start": 203.04,
+          "end": 204.06,
+          "probability": 0.8915900588035583
+        },
+        {
+          "word": " real",
+          "start": 204.06,
+          "end": 204.32,
+          "probability": 0.996801495552063
+        },
+        {
+          "word": " time,",
+          "start": 204.32,
+          "end": 204.86,
+          "probability": 0.5656147599220276
+        }
+      ]
+    },
+    {
+      "text": "documented by a secure privacy as well.",
+      "start_ms": 205060,
+      "end_ms": 207200,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " documented",
+          "start": 205.06,
+          "end": 205.82,
+          "probability": 0.8284386992454529
+        },
+        {
+          "word": " by",
+          "start": 205.82,
+          "end": 206.12,
+          "probability": 0.9755010008811951
+        },
+        {
+          "word": " a",
+          "start": 206.12,
+          "end": 206.3,
+          "probability": 0.20831172168254852
+        },
+        {
+          "word": " secure",
+          "start": 206.3,
+          "end": 206.48,
+          "probability": 0.4118463397026062
+        },
+        {
+          "word": " privacy",
+          "start": 206.48,
+          "end": 206.84,
+          "probability": 0.9974326491355896
+        },
+        {
+          "word": " as",
+          "start": 206.84,
+          "end": 207.04,
+          "probability": 0.9786965847015381
+        },
+        {
+          "word": " well.",
+          "start": 207.04,
+          "end": 207.2,
+          "probability": 0.9981608986854553
+        }
+      ]
+    },
+    {
+      "text": "So, that's something you have to have in mind when you implement a GDPR,",
+      "start_ms": 207680,
+      "end_ms": 213620,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " So,",
+          "start": 207.68,
+          "end": 207.76,
+          "probability": 0.921468198299408
+        },
+        {
+          "word": " that's",
+          "start": 207.82,
+          "end": 208.06,
+          "probability": 0.9936314523220062
+        },
+        {
+          "word": " something",
+          "start": 208.06,
+          "end": 208.4,
+          "probability": 0.998675525188446
+        },
+        {
+          "word": " you",
+          "start": 208.4,
+          "end": 209.12,
+          "probability": 0.9797875881195068
+        },
+        {
+          "word": " have",
+          "start": 209.12,
+          "end": 209.68,
+          "probability": 0.9965723752975464
+        },
+        {
+          "word": " to",
+          "start": 209.68,
+          "end": 209.84,
+          "probability": 0.9995282888412476
+        },
+        {
+          "word": " have",
+          "start": 209.84,
+          "end": 209.96,
+          "probability": 0.995951771736145
+        },
+        {
+          "word": " in",
+          "start": 209.96,
+          "end": 210.06,
+          "probability": 0.9992257356643677
+        },
+        {
+          "word": " mind",
+          "start": 210.06,
+          "end": 210.42,
+          "probability": 0.9998258948326111
+        },
+        {
+          "word": " when",
+          "start": 210.42,
+          "end": 210.84,
+          "probability": 0.9670234322547913
+        },
+        {
+          "word": " you",
+          "start": 210.84,
+          "end": 211.08,
+          "probability": 0.9994729161262512
+        },
+        {
+          "word": " implement",
+          "start": 211.08,
+          "end": 211.66,
+          "probability": 0.9988316893577576
+        },
+        {
+          "word": " a",
+          "start": 211.66,
+          "end": 212.86,
+          "probability": 0.7233595252037048
+        },
+        {
+          "word": " GDPR,",
+          "start": 212.86,
+          "end": 213.62,
+          "probability": 0.9685074388980865
+        }
+      ]
+    },
+    {
+      "text": "E privacy, or LTPD solution for your websites and your company.",
+      "start_ms": 213920,
+      "end_ms": 217680,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " E",
+          "start": 213.92,
+          "end": 214.0,
+          "probability": 0.588947594165802
+        },
+        {
+          "word": " privacy,",
+          "start": 214.0,
+          "end": 214.56,
+          "probability": 0.542384684085846
+        },
+        {
+          "word": " or",
+          "start": 214.76,
+          "end": 214.84,
+          "probability": 0.6969833374023438
+        },
+        {
+          "word": " LTPD",
+          "start": 214.84,
+          "end": 215.44,
+          "probability": 0.812567929426829
+        },
+        {
+          "word": " solution",
+          "start": 215.44,
+          "end": 215.9,
+          "probability": 0.9822672009468079
+        },
+        {
+          "word": " for",
+          "start": 215.9,
+          "end": 216.3,
+          "probability": 0.9311244487762451
+        },
+        {
+          "word": " your",
+          "start": 216.3,
+          "end": 216.44,
+          "probability": 0.9939484596252441
+        },
+        {
+          "word": " websites",
+          "start": 216.44,
+          "end": 216.82,
+          "probability": 0.8779523968696594
+        },
+        {
+          "word": " and",
+          "start": 216.82,
+          "end": 217.2,
+          "probability": 0.6222901940345764
+        },
+        {
+          "word": " your",
+          "start": 217.2,
+          "end": 217.3,
+          "probability": 0.9934511184692383
+        },
+        {
+          "word": " company.",
+          "start": 217.3,
+          "end": 217.68,
+          "probability": 0.9983054399490356
+        }
+      ]
+    },
+    {
+      "text": "Okay, so, three common mistakes.",
+      "start_ms": 218000,
+      "end_ms": 219960,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 218.0,
+          "end": 218.14,
+          "probability": 0.8020034432411194
+        },
+        {
+          "word": " so,",
+          "start": 218.5,
+          "end": 218.66,
+          "probability": 0.9921892881393433
+        },
+        {
+          "word": " three",
+          "start": 218.88,
+          "end": 219.2,
+          "probability": 0.970033586025238
+        },
+        {
+          "word": " common",
+          "start": 219.2,
+          "end": 219.62,
+          "probability": 0.9955756664276123
+        },
+        {
+          "word": " mistakes.",
+          "start": 219.62,
+          "end": 219.96,
+          "probability": 0.9983747005462646
+        }
+      ]
+    },
+    {
+      "text": "Thanks. I hope it makes sense.",
+      "start_ms": 219960,
+      "end_ms": 221560,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Thanks.",
+          "start": 219.96,
+          "end": 220.26,
+          "probability": 0.6471334099769592
+        },
+        {
+          "word": " I",
+          "start": 220.5,
+          "end": 220.78,
+          "probability": 0.989464282989502
+        },
+        {
+          "word": " hope",
+          "start": 220.78,
+          "end": 220.9,
+          "probability": 0.9991270899772644
+        },
+        {
+          "word": " it",
+          "start": 220.9,
+          "end": 221.0,
+          "probability": 0.9726222157478333
+        },
+        {
+          "word": " makes",
+          "start": 221.0,
+          "end": 221.14,
+          "probability": 0.9502280950546265
+        },
+        {
+          "word": " sense.",
+          "start": 221.14,
+          "end": 221.56,
+          "probability": 0.9989101886749268
+        }
+      ]
+    },
+    {
+      "text": "Autolize with the habit to hear from you.",
+      "start_ms": 221740,
+      "end_ms": 223460,
+      "confidence": 0.0,
+      "speaker": "default",
+      "words": [
+        {
+          "word": " Autolize",
+          "start": 221.74,
+          "end": 222.08,
+          "probability": 0.6099271476268768
+        },
+        {
+          "word": " with",
+          "start": 222.08,
+          "end": 222.58,
+          "probability": 0.8266257643699646
+        },
+        {
+          "word": " the",
+          "start": 222.58,
+          "end": 222.7,
+          "probability": 0.22461633384227753
+        },
+        {
+          "word": " habit",
+          "start": 222.7,
+          "end": 222.88,
+          "probability": 0.5161728858947754
+        },
+        {
+          "word": " to",
+          "start": 222.88,
+          "end": 223.04,
+          "probability": 0.5636031031608582
+        },
+        {
+          "word": " hear",
+          "start": 223.04,
+          "end": 223.14,
+          "probability": 0.9533564448356628
+        },
+        {
+          "word": " from",
+          "start": 223.14,
+          "end": 223.3,
+          "probability": 0.9957737326622009
+        },
+        {
+          "word": " you.",
+          "start": 223.3,
+          "end": 223.46,
+          "probability": 0.9986501336097717
+        }
+      ]
+    }
+  ],
+  "utterance_count": 54,
+  "model_used": "whisper-base",
+  "language": "en"
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "timestamp": "0.68s",
+    "speaker_text": "So, how do you make a website compliant with GDPR and other",
+    "visual_context": "Intro/Transition",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "5.00s",
+    "speaker_text": "information data privacy laws?",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "7.70s",
+    "speaker_text": "Again, and again, we've seen the same common mistakes on, you know,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "12.34s",
+    "speaker_text": "hundreds and thousands of websites.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "14.68s",
+    "speaker_text": "So, I want to go through three very common mistakes in this video",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "17.78s",
+    "speaker_text": "to make sure that you don't do the same mistakes.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "20.78s",
+    "speaker_text": "So, one of them is that do you have a cookie banner,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "24.14s",
+    "speaker_text": "which blocked cookies before you have explicit consent?",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "27.82s",
+    "speaker_text": "Okay, I want to show you how it can be done.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "31.46s",
+    "speaker_text": "So, if you take a look on this website right here,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "35.80s",
+    "speaker_text": "we have a cookie banner, which communicates the privacy notice,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "40.28s",
+    "speaker_text": "and also you have to embed the ability to block cookies",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "44.68s",
+    "speaker_text": "before a user presses accept.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "48.36s",
+    "speaker_text": "Okay, so that's something your solution should be able to do.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "51.98s",
+    "speaker_text": "Basically, be able to block cookies before you have received explicit consent.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "56.40s",
+    "speaker_text": "Okay, another best practice you want to have included in your banner",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "60.46s",
+    "speaker_text": "is not only the ability to accept, but also the client,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "64.82s",
+    "speaker_text": "the cookie banner, as you see right here.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "67.10s",
+    "speaker_text": "In this specific case right here, we have chosen an approach",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "71.38s",
+    "speaker_text": "of being transparent with the data we collect.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "75.06s",
+    "speaker_text": "So, we have what we call a detailed cookie banner.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "78.04s",
+    "speaker_text": "So, you can take details and you can see what type of cookies and plugins",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "83.62s",
+    "speaker_text": "we use on the website and your ability to change the dissentings right here.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "89.76s",
+    "speaker_text": "Other ways you can make it look and style to make it fit",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "93.46s",
+    "speaker_text": "in a beautiful way to your website is like this.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "97.32s",
+    "speaker_text": "And here's another beautiful way to make it stylish and make it fit your website.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "102.12s",
+    "speaker_text": "So, you have a number of ways to make it look and feel perfect to your own website.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "106.74s",
+    "speaker_text": "Okay, now that's one of the areas we want to walk through in terms of the cookie banner.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "111.58s",
+    "speaker_text": "A second part is have you made it easy to withdraw consent?",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "117.34s",
+    "speaker_text": "Okay, so from a technical aspect, this is quite complicated.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "121.78s",
+    "speaker_text": "So, in this case, let's say that I have now consented for the cookies and trackers.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "126.90s",
+    "speaker_text": "Now, how do you actually change the consent?",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "132.10s",
+    "speaker_text": "Now, you may have difficulty because of the little widget down here.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "135.88s",
+    "speaker_text": "But we actually have what we call a trust badge,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "138.98s",
+    "speaker_text": "which you can move in different locations on the website.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "142.02s",
+    "speaker_text": "But what's really smart about it is that it is interactive.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "145.74s",
+    "speaker_text": "So, in the case of, let's say, analytics, it provides you an ability to opt in,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "150.90s",
+    "speaker_text": "but also opt out and basically change the users previously given consent as well.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "157.66s",
+    "speaker_text": "And that's something we document inside our back end as well.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "161.56s",
+    "speaker_text": "Okay, so that's a way to communicate additional privacy information,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "164.84s",
+    "speaker_text": "but also to be very transparent and provide the ability for the user to withdraw consent at a later time.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "171.90s",
+    "speaker_text": "Okay, so very important.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "173.70s",
+    "speaker_text": "So, that is the second point.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "176.02s",
+    "speaker_text": "Now, the third point is do you have evidence of valid consent?",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "181.18s",
+    "speaker_text": "I want to show you how it looks inside the administration panel.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "184.62s",
+    "speaker_text": "So, if I go to consent tracking and let's say I now press refresh right here,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "191.68s",
+    "speaker_text": "you can then see that I have now declined for analytics right here.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "198.28s",
+    "speaker_text": "So, you can basically see that I have declined and we now have a record of the consent in real time,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "205.06s",
+    "speaker_text": "documented by a secure privacy as well.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "207.68s",
+    "speaker_text": "So, that's something you have to have in mind when you implement a GDPR,",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "213.92s",
+    "speaker_text": "E privacy, or LTPD solution for your websites and your company.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "218.00s",
+    "speaker_text": "Okay, so, three common mistakes.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "219.96s",
+    "speaker_text": "Thanks. I hope it makes sense.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  },
+  {
+    "timestamp": "221.74s",
+    "speaker_text": "Autolize with the habit to hear from you.",
+    "visual_context": "{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}",
+    "ui_elements_visible": []
+  }
+]

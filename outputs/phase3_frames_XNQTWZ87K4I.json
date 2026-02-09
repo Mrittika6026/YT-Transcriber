@@ -1,0 +1,266 @@
+{
+  "video_id": "XNQTWZ87K4I",
+  "video_path": "/kaggle/working/videos/XNQTWZ87K4I.mp4",
+  "frames": [
+    {
+      "frame_id": "SEM_1000_F0",
+      "reference_id": "SEM_1000",
+      "reference_text": "information data privacy laws?",
+      "timestamp_ms": 4000,
+      "offset_seconds": -1,
+      "frame_path": "/kaggle/working/frames/SEM_1000/SEM_1000_offset_-1.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/SEM_1000/SEM_1000_offset_-1.0s_thumb.jpg",
+      "perceptual_hash": "a19f428f78877887",
+      "quality": {
+        "brightness": 229.3999956597222,
+        "sharpness": 1286.4651745189337,
+        "quality_score": 0.7602353043300654,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"A Google Slides presentation titled '3 common mistakes' displaying three numbered questions related to cookie banner implementation, ease of consent withdrawal, and evidence of valid consent. A speaker is visible in a video overlay in the bottom-left corner.\",\n  \"visual_elements\": [\n    \"Google Slides menu bar (File, Edit, View, etc.)\",\n    \"Google Slides toolbar buttons (e.g., Present, Share)\",\n    \"Slide thumbnail navigation pane\",\n    \"Video playback controls (play/pause, timestamp)\",\n    \"Browser tabs (e.g., 'Secure Privacy', 'Understand.com')\"\n  ],\n  \"type\": \"UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / User Consent\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "REF_003_F1",
+      "reference_id": "REF_003",
+      "reference_text": "So, if you take a look on this website right here,",
+      "timestamp_ms": 32460,
+      "offset_seconds": 1,
+      "frame_path": "/kaggle/working/frames/REF_003/REF_003_offset_+1.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/REF_003/REF_003_offset_+1.0s_thumb.jpg",
+      "perceptual_hash": "ca29f186e887f0ad",
+      "quality": {
+        "brightness": 109.51597222222222,
+        "sharpness": 2066.4013796540253,
+        "quality_score": 0.9576846405228757,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The UI displays the landing page for Secure Privacy, a service focused on GDPR, CCPA, and LGPD compliance, featuring an input field to scan a website and a prominently displayed cookie consent banner at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy logo and branding\",\n    \"Main heading: 'Tired of complex GDPR and Cookie laws?'\",\n    \"Website URL input field\",\n    \"'Check my website' button\",\n    \"Cookie consent banner\",\n    \"'Accept' button (within cookie banner)\",\n    \"'X' (close) button (within cookie banner)\",\n    \"'Analytics' checkbox (within cookie banner)\",\n    \"'Essential' checkbox (within cookie banner)\",\n    \"'Details' link/dropdown (within cookie banner)\",\n    \"Top navigation links: 'Support', 'Reseller', 'Login', 'Request Demo'\"\n  ],\n  \"type\": \"UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Compliance\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "REF_003_F2",
+      "reference_id": "REF_003",
+      "reference_text": "So, if you take a look on this website right here,",
+      "timestamp_ms": 33460,
+      "offset_seconds": 2,
+      "frame_path": "/kaggle/working/frames/REF_003/REF_003_offset_+2.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/REF_003/REF_003_offset_+2.0s_thumb.jpg",
+      "perceptual_hash": "ca01f19ea897f0ad",
+      "quality": {
+        "brightness": 111.89259114583334,
+        "sharpness": 2098.5713718758852,
+        "quality_score": 0.9632766850490195,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The UI displays the landing page of Secure Privacy (secureprivacy.ai), a platform promoting GDPR, CCPA, and LGPD compliance solutions. A prominent cookie consent banner is active at the bottom of the page, demonstrating its functionality.\",\n  \"visual_elements\": [\n    \"Secure Privacy logo and branding\",\n    \"Main heading: 'Tired of complex GDPR and Cookie laws?'\",\n    \"Input field: 'Enter your website URL'\",\n    \"Button: 'Check my website'\",\n    \"Header navigation links: 'Support', 'Reseller', 'Login', 'Request Demo'\",\n    \"Cookie consent banner\",\n    \"Button: 'Accept' (within cookie banner)\",\n    \"Button: 'X' (close cookie banner)\",\n    \"Checkbox: 'Analytics' (cookie category)\",\n    \"Checkbox: 'Essential' (cookie category)\",\n    \"Link: 'Details' (for cookie preferences)\"\n  ],\n  \"type\": \"UI_Walkthrough/Landing_Page/Cookie_Consent_UI\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Data Privacy\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "REF_004_F3",
+      "reference_id": "REF_004",
+      "reference_text": "we have a cookie banner, which communicates the privacy notice,",
+      "timestamp_ms": 34800,
+      "offset_seconds": -1,
+      "frame_path": "/kaggle/working/frames/REF_004/REF_004_offset_-1.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/REF_004/REF_004_offset_-1.0s_thumb.jpg",
+      "perceptual_hash": "ca29e09ee897f08d",
+      "quality": {
+        "brightness": 110.066328125,
+        "sharpness": 2159.4329244940677,
+        "quality_score": 0.9589795955882352,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The UI displays the Secure Privacy landing page, which advertises GDPR and cookie compliance solutions. A prominent cookie consent banner, likely implemented by the Secure Privacy tool itself, is active and visible at the bottom of the screen.\",\n  \"visual_elements\": [\n    \"Secure Privacy logo\",\n    \"Website URL input field\",\n    \"\\\"Check my website\\\" button\",\n    \"Main marketing headline: 'Tired of complex GDPR and Cookie laws?'\",\n    \"Cookie consent banner text: 'We use cookies on this site...'\",\n    \"\\\"Accept\\\" button (for cookie consent)\",\n    \"\\\"X\\\" (close cookie banner) button\",\n    \"\\\"Analytics\\\" cookie category checkbox (checked)\",\n    \"\\\"Essential\\\" cookie category checkbox (checked)\",\n    \"\\\"Details\\\" dropdown for cookie preferences\",\n    \"Navigation links: Support, Reseller, Login, Request Demo\"\n  ],\n  \"type\": \"UI_Walkthrough/Settings\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Consent Management\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "SEM_1012_F4",
+      "reference_id": "SEM_1012",
+      "reference_text": "So, you can take details and you can see what type of cookies and plugins",
+      "timestamp_ms": 79040,
+      "offset_seconds": 1,
+      "frame_path": "/kaggle/working/frames/SEM_1012/SEM_1012_offset_+1.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/SEM_1012/SEM_1012_offset_+1.0s_thumb.jpg",
+      "perceptual_hash": "e07f6097f0877087",
+      "quality": {
+        "brightness": 176.20825086805556,
+        "sharpness": 1914.376818372015,
+        "quality_score": 0.8853923508986927,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The UI displays an expanded cookie consent management widget from 'Secure Privacy', showcasing detailed options for users to control cookie categories like 'Analytics' and 'Essential', and specific third-party plugins such as 'Hotjar' and 'Google Analytics'. It combines an initial cookie banner with a customizable preferences panel.\",\n  \"visual_elements\": [\n    \"Cookie consent banner (green bar)\",\n    \"Accept button\",\n    \"Close (X) button on banner\",\n    \"Analytics cookie category checkbox/label\",\n    \"Essential cookie category checkbox/label\",\n    \"Hide button for preferences panel\",\n    \"Privacy policy explanatory text\",\n    \"Plugins section header\",\n    \"Hotjar plugin 'Block/Enable' toggle\",\n    \"Google Analytics plugin 'Block/Enable' toggle\",\n    \"Website top navigation links (Support, Reseller, Login, Request Demo)\",\n    \"WordPress-like admin bar elements\"\n  ],\n  \"type\": \"UI_Walkthrough/Settings\",\n  \"concept\": \"GDPR Compliance / Cookie Management / User Consent Settings\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "REF_008_F5",
+      "reference_id": "REF_008",
+      "reference_text": "A second part is have you made it easy to withdraw consent?",
+      "timestamp_ms": 110580,
+      "offset_seconds": -1,
+      "frame_path": "/kaggle/working/frames/REF_008/REF_008_offset_-1.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/REF_008/REF_008_offset_-1.0s_thumb.jpg",
+      "perceptual_hash": "e09f528f708f608f",
+      "quality": {
+        "brightness": 231.55788628472223,
+        "sharpness": 1234.2703105827427,
+        "quality_score": 0.7551579146241829,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"A Google Slides presentation displaying a slide titled '3 common mistakes' containing three numbered questions related to cookie consent and GDPR compliance best practices.\",\n  \"visual_elements\": [\n    \"Google Slides presentation interface (menu bar, toolbar, slide thumbnail panel)\",\n    \"Browser tabs (e.g., '3 common mistakes - Google S...', 'Secure Privacy GDPR, COPP...')\",\n    \"Slide content with numbered questions (regarding cookie banners, consent withdrawal, and evidence of consent)\",\n    \"Google Slides 'Present' button\",\n    \"Google Slides 'Share' button\",\n    \"Video playback controls (play/pause, timestamp 01:50)\"\n  ],\n  \"type\": \"Conceptual Explanation\",\n  \"concept\": \"GDPR Compliance / Cookie Management / User Consent\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "SEM_1015_F6",
+      "reference_id": "SEM_1015",
+      "reference_text": "So, in this case, let's say that I have now consented for the cookies and trackers.",
+      "timestamp_ms": 123780,
+      "offset_seconds": 2,
+      "frame_path": "/kaggle/working/frames/SEM_1015/SEM_1015_offset_+2.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/SEM_1015/SEM_1015_offset_+2.0s_thumb.jpg",
+      "perceptual_hash": "ca2ff08fa897708c",
+      "quality": {
+        "brightness": 113.87696614583334,
+        "sharpness": 2243.1329695203995,
+        "quality_score": 0.9679458026960783,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "SEM_1018_F7",
+      "reference_id": "SEM_1018",
+      "reference_text": "but also opt out and basically change the users previously given consent as well.",
+      "timestamp_ms": 149900,
+      "offset_seconds": -1,
+      "frame_path": "/kaggle/working/frames/SEM_1018/SEM_1018_offset_-1.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/SEM_1018/SEM_1018_offset_-1.0s_thumb.jpg",
+      "perceptual_hash": "c227f88fb09fc291",
+      "quality": {
+        "brightness": 143.77609809027777,
+        "sharpness": 1554.511155696144,
+        "quality_score": 0.9617032986111111,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"A modal window showing a configuration panel for managing privacy settings, specifically allowing an administrator to block or enable third-party analytical plugins (Hotjar, Google Analytics). This modal is overlaid on the 'Secure Privacy' product's dashboard or website, which focuses on GDPR, CCPA & Privacy management.\",\n  \"visual_elements\": [\n    \"Secure Privacy modal header with logo\",\n    \"Language selector dropdown (English) within the modal\",\n    \"Informational text explaining the use of third-party analytical software\",\n    \"List of plugins (Hotjar, Google Analytics) with 'Block/Enable' labels\",\n    \"Toggle switches for enabling/disabling Hotjar\",\n    \"Toggle switches for enabling/disabling Google Analytics\",\n    \"Expandable/collapsible section header 'Essential' with a count '2' and dropdown arrow\",\n    \"\\\"Read our privacy policy\\\" link\",\n    \"\\\"CANCEL\\\" button\",\n    \"\\\"SAVE\\\" button\",\n    \"Background website elements: 'Secure Privacy' branding, navigation (Support, Reseller, Login, Request Demo), and WordPress admin bar elements.\"\n  ],\n  \"type\": \"Settings\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Preferences\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "REF_011_F8",
+      "reference_id": "REF_011",
+      "reference_text": "I want to show you how it looks inside the administration panel.",
+      "timestamp_ms": 182180,
+      "offset_seconds": 1,
+      "frame_path": "/kaggle/working/frames/REF_011/REF_011_offset_+1.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/REF_011/REF_011_offset_+1.0s_thumb.jpg",
+      "perceptual_hash": "80be789f78877886",
+      "quality": {
+        "brightness": 204.86155815972222,
+        "sharpness": 713.6938680121341,
+        "quality_score": 0.8179728043300654,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The SecurePrivacy.ai dashboard, displaying an overview of various privacy and compliance features, their activation status, and customization options. It shows a list of modules like 'Cookie banner', 'Privacy Policy', and 'Consent tracking' with their current settings.\",\n  \"visual_elements\": [\n    \"Left-hand navigation menu (Dashboard, Installation, Banners, Report, Automated scanning, Privacy Policy, Consent tracking, Languages, Domains)\",\n    \"Main content area displaying a table with columns: 'Activate', 'Status', 'Customize'\",\n    \"Feature list items (e.g., Visual Script, Languages, Cookie banner, Trust Seal, Privacy Center, Privacy Policy, Monthly Scanning)\",\n    \"Toggle switches (e.g., for Cookie banner, Trust Seal, Privacy Center, Privacy Policy, Monthly Scanning)\",\n    \"Status indicators (e.g., 'Completed', '16 languages selected')\",\n    \"Customization links ('Edit', 'Pull', 'Test connection')\",\n    \"User account dropdown ('Dan Storbak')\",\n    \"Support link ('Need support? Contact us here.')\"\n  ],\n  \"type\": \"Settings\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Data Privacy\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "REF_011_F9",
+      "reference_id": "REF_011",
+      "reference_text": "I want to show you how it looks inside the administration panel.",
+      "timestamp_ms": 183180,
+      "offset_seconds": 2,
+      "frame_path": "/kaggle/working/frames/REF_011/REF_011_offset_+2.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/REF_011/REF_011_offset_+2.0s_thumb.jpg",
+      "perceptual_hash": "80067cbf70bf6097",
+      "quality": {
+        "brightness": 207.9569748263889,
+        "sharpness": 773.9770295530531,
+        "quality_score": 0.810689470996732,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The UI displays the 'Dashboard' section of the Secure Privacy application, providing an overview of various data privacy and compliance features, their activation status, and options for customization. It serves as a central hub for managing the client's privacy compliance tools.\",\n  \"visual_elements\": [\n    \"Left-hand navigation menu with items like 'Dashboard', 'Installation', 'Banners', 'Privacy Policy', 'Consent tracking', and 'Domains'\",\n    \"Feature list in the main content area, including 'Visual script', 'Languages', 'Cookie banner', 'Fixed form', 'Privacy Center', 'Privacy Policy', and 'Monthly Scanning'\",\n    \"Toggle switches (green, indicating active) for activating/deactivating features like 'Cookie banner' and 'Privacy Policy'\",\n    \"Status indicators (e.g., 'Completed', '35 languages selected')\",\n    \"'Edit' links for customizing individual features\",\n    \"'Test connection' link for 'Visual script'\",\n    \"Informational help icons ('?') next to feature names\",\n    \"A 'Need support? Contact us here.' link at the bottom of the main content area\"\n  ],\n  \"type\": \"Settings Dashboard / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Data Privacy Management\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    },
+    {
+      "frame_id": "REF_012_F10",
+      "reference_id": "REF_012",
+      "reference_text": "So, if I go to consent tracking and let's say I now press refresh right here,",
+      "timestamp_ms": 184620,
+      "offset_seconds": 0,
+      "frame_path": "/kaggle/working/frames/REF_012/REF_012_offset_+0.0s.jpg",
+      "thumbnail_path": "/kaggle/working/frames/REF_012/REF_012_offset_+0.0s_thumb.jpg",
+      "perceptual_hash": "80167c9f789f7087",
+      "quality": {
+        "brightness": 207.17616753472223,
+        "sharpness": 805.4204199827404,
+        "quality_score": 0.8125266646241829,
+        "is_good_quality": true
+      },
+      "ocr_data": null,
+      "ai_description": {
+        "description": "```json\n{\n  \"description\": \"The admin dashboard of a privacy compliance platform (secureprivacy.ai), displaying an overview of various privacy-related features, their activation status, and options for customization.\",\n  \"visual_elements\": [\n    \"Navigation sidebar (e.g., Dashboard, Banners, Consent tracking, Languages, Domains)\",\n    \"Feature list with columns: 'Activate', 'Status', 'Customize'\",\n    \"Toggle switches (for features like Cookie banner, Fixed Scan, Privacy Center)\",\n    \"Edit links (for Languages, Cookie banner, Privacy Policy, etc.)\",\n    \"Completed status text (for Visual script)\",\n    \"Test connection link (for Visual script)\",\n    \"Question mark icons for feature information\",\n    \"Support link ('Need support? Contact us here.')\",\n    \"Speaker video feed\"\n  ],\n  \"type\": \"Settings/UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Data Privacy Management\"\n}\n```",
+        "type": "unknown",
+        "concept": ""
+      }
+    }
+  ],
+  "frame_count": 11,
+  "statistics": {
+    "total_extracted": 120,
+    "duplicates_skipped": 109,
+    "low_quality_skipped": 0,
+    "unique_frames": 11
+  },
+  "config": {
+    "frame_offsets": [
+      -1,
+      0,
+      1,
+      2
+    ],
+    "dedup_enabled": true,
+    "ocr_enabled": false,
+    "ai_enabled": true
+  }
+}

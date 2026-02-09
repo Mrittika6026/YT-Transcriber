@@ -1,0 +1,134 @@
+PHASE 3 INTEGRATED TRANSCRIPT: 3 common GDPR mistakes for website compliance
+================================================================================
+
+
+[ VISUAL SIGNAL @ 4.0s | ID: SEM_1000_F0 ]
+TYPE: Conceptual_Explanation
+SCENE: A Google Slides presentation titled '3 common mistakes' is displayed in edit mode, featuring a slide that outlines three key questions about cookie banners and user consent for privacy compliance. A speaker's webcam feed is visible in the bottom left, and video playback controls are at the bottom of the presentation area.
+UI ELEMENTS: Google Slides menu bar (File, Edit, View, Insert, Format, Slide, Arrange, Tools, Add-ons, Help), Google Slides editing toolbar (icons for undo, redo, print, insert text box, insert image, etc.), Slide thumbnail panel (showing the current slide), "Present" button, "Share" button, Video playback controls (play/pause, timestamp, progress bar), Browser tabs (e.g., 'Secure Privacy GDPR, CCPA & P...')
+--------------------------------------------------
+
+[00:00] So, how do you make a website compliant with GDPR and other
+[00:05] information data privacy laws?
+[00:07] Again, and again, we've seen the same common mistakes on, you know,
+[00:12] hundreds and thousands of websites.
+[00:14] So, I want to go through three very common mistakes in this video
+[00:17] to make sure that you don't do the same mistakes.
+[00:20] So, one of them is that do you have a cookie banner,
+[00:24] which blocked cookies before you have explicit consent?
+[00:27] Okay, I want to show you how it can be done.
+
+[ VISUAL SIGNAL @ 32.5s | ID: REF_003_F1 ]
+TYPE: UI_Walkthrough
+SCENE: The user is viewing the homepage of secureprivacy.ai, which introduces the service for managing GDPR, CCPA, and LGPD compliance, and features a prominent cookie consent banner at the bottom.
+UI ELEMENTS: Secure Privacy logo, Top navigation links (Support, Reseller, Login), Request Demo button, Headline: 'Tired of complex GDPR and Cookie laws?', Website URL input field, Check my website button, Cookie consent banner, Accept button (on cookie banner), Close button (X) (on cookie banner), Analytics checkbox (on cookie banner), Essential checkbox (on cookie banner), Details dropdown/link (on cookie banner)
+--------------------------------------------------
+
+
+[ VISUAL SIGNAL @ 33.5s | ID: REF_003_F2 ]
+TYPE: UI_Walkthrough
+SCENE: The landing page of 'Secure Privacy', a platform offering GDPR, CCPA, and LGPD compliance and cookie management solutions. The page features a call to action for users to scan their website, and its own website displays a cookie consent banner at the bottom.
+UI ELEMENTS: Secure Privacy brand logo, Top navigation links (Support, Reseller, Login), Request Demo button, Website URL input field, Check my website button, Cookie consent banner with information text, Accept button (on cookie banner), Close button (X) on cookie banner, Cookie preference checkboxes (Analytics, Essential), Details dropdown for cookie settings
+--------------------------------------------------
+
+
+[ VISUAL SIGNAL @ 34.8s | ID: REF_004_F3 ]
+TYPE: UI_Walkthrough
+SCENE: The Secure Privacy landing page, which promotes their GDPR, CCPA, and LGPD compliance solutions, is shown with a prominent cookie consent banner displayed at the bottom of the screen.
+UI ELEMENTS: Secure Privacy logo and branding, Website navigation links (Support, Reseller, Login, Request Demo), Headline: 'Tired of complex GDPR and Cookie laws?', Website URL input field, Button: 'Check my website', Cookie consent banner, Cookie consent message text, Button: 'Accept' (on cookie banner), Close button (X on cookie banner), Cookie category checkboxes: 'Analytics', 'Essential', Dropdown: 'Details' (for cookie settings), Speaker's webcam feed overlay, Video player controls
+--------------------------------------------------
+
+[00:31] So, if you take a look on this website right here,
+[00:35] we have a cookie banner, which communicates the privacy notice,
+[00:40] and also you have to embed the ability to block cookies
+[00:44] before a user presses accept.
+[00:48] Okay, so that's something your solution should be able to do.
+[00:51] Basically, be able to block cookies before you have received explicit consent.
+[00:56] Okay, another best practice you want to have included in your banner
+[01:00] is not only the ability to accept, but also the client,
+[01:04] the cookie banner, as you see right here.
+[01:07] In this specific case right here, we have chosen an approach
+[01:11] of being transparent with the data we collect.
+[01:15] So, we have what we call a detailed cookie banner.
+
+[ VISUAL SIGNAL @ 79.0s | ID: SEM_1012_F4 ]
+TYPE: UI_Walkthrough/Settings
+SCENE: The UI displays a website's cookie consent management system, showing an initial cookie banner at the top and an expanded, detailed view of cookie preferences below it. This expanded view includes categories like Analytics and Essential, along with toggles to block or enable specific plugins.
+UI ELEMENTS: Cookie consent banner, Accept cookie button, Close (X) button on the banner, Analytics cookie category checkbox/tab, Essential cookie category checkbox/tab, Hide preferences button, Block/Enable toggle for Hotjar plugin, Block/Enable toggle for Google Analytics plugin, Request Demo button (in website header)
+--------------------------------------------------
+
+[01:18] So, you can take details and you can see what type of cookies and plugins
+[01:23] we use on the website and your ability to change the dissentings right here.
+[01:29] Other ways you can make it look and style to make it fit
+[01:33] in a beautiful way to your website is like this.
+[01:37] And here's another beautiful way to make it stylish and make it fit your website.
+[01:42] So, you have a number of ways to make it look and feel perfect to your own website.
+
+[ VISUAL SIGNAL @ 110.6s | ID: REF_008_F5 ]
+TYPE: Conceptual_Explanation
+SCENE: A Google Slides presentation titled '3 common mistakes' is displayed. The current slide presents three critical questions related to cookie banner implementation, consent withdrawal, and evidence of valid consent, within the context of privacy compliance.
+UI ELEMENTS: Google Slides presentation interface, Browser tabs (e.g., 'Secure Privacy GDPR', 'Understand.com'), Presentation slide with three numbered questions, Google Slides menu bar (File, Edit, View, Insert, Format, Slide, Arrange, Tools, Add-ons, Help), Google Slides toolbar, Slide thumbnail pane (left side), Present button, Share button, Video player controls (play/pause, timestamp 01:50)
+--------------------------------------------------
+
+[01:46] Okay, now that's one of the areas we want to walk through in terms of the cookie banner.
+[01:51] A second part is have you made it easy to withdraw consent?
+[01:57] Okay, so from a technical aspect, this is quite complicated.
+
+[ VISUAL SIGNAL @ 123.8s | ID: SEM_1015_F6 ]
+TYPE: UI_Walkthrough
+SCENE: The Secure Privacy website's landing page, introducing its GDPR, CCPA, and LGPD compliance solution. The page features a call-to-action to scan a website and an embedded video demonstrating the product's administrative dashboard and features.
+UI ELEMENTS: Website URL input field, "Check my website" button, Header navigation links (Support, Reseller, Login, Request Demo), Embedded product demo video player, Admin dashboard elements within embedded video (e.g., sidebar menu items, data display with country flags)
+--------------------------------------------------
+
+[02:01] So, in this case, let's say that I have now consented for the cookies and trackers.
+[02:06] Now, how do you actually change the consent?
+[02:12] Now, you may have difficulty because of the little widget down here.
+[02:15] But we actually have what we call a trust badge,
+[02:18] which you can move in different locations on the website.
+[02:22] But what's really smart about it is that it is interactive.
+
+[ VISUAL SIGNAL @ 149.9s | ID: SEM_1018_F7 ]
+TYPE: Settings
+SCENE: The UI displays a modal dialog for configuring cookie consent and privacy settings within the 'Secure Privacy' platform (likely an administrator interface). It allows for managing the blocking or enabling of third-party analytical plugins and provides information about essential cookies.
+UI ELEMENTS: Secure Privacy modal header, Description of 3rd party analytical software usage, Hotjar plugin entry with 'Block/Enable' toggle, Google Analytics plugin entry with 'Block/Enable' toggle, 'Essential' cookie category dropdown, 'Read our privacy policy' hyperlink, 'CANCEL' button, 'SAVE' button, Language selection dropdown (English), WordPress admin bar with 'Secure Privacy: GDPR, CCPA & Privacy' menu item, Browser tabs (including 'Secure Privacy: GDPR, CCPA & Privacy')
+--------------------------------------------------
+
+[02:25] So, in the case of, let's say, analytics, it provides you an ability to opt in,
+[02:30] but also opt out and basically change the users previously given consent as well.
+[02:37] And that's something we document inside our back end as well.
+[02:41] Okay, so that's a way to communicate additional privacy information,
+[02:44] but also to be very transparent and provide the ability for the user to withdraw consent at a later time.
+[02:51] Okay, so very important.
+[02:53] So, that is the second point.
+[02:56] Now, the third point is do you have evidence of valid consent?
+
+[ VISUAL SIGNAL @ 182.2s | ID: REF_011_F8 ]
+TYPE: Settings / UI_Walkthrough
+SCENE: The UI displays the dashboard of a privacy management platform ('secureprivacy.ai'), presenting an overview of various privacy-related features, their activation status, and options for customization. It features a left-hand navigation menu and a main content area structured like a table.
+UI ELEMENTS: Left-hand navigation menu (Dashboard, Installation, Banners, Report, Automated scanning, Privacy Policy, Consent tracking, Languages, Domains), Feature activation and status table (with columns: Activate, Status, Customize), Feature list items (Visual Script, Languages, Cookie banner, Font Sized, Privacy Center, Privacy Policy, Monthly Scanning), Toggle switches for feature activation (e.g., Cookie banner, Privacy Center), Edit links for feature customization (e.g., Languages, Cookie banner), Status indicators (e.g., 'Completed', '35 languages selected'), Information/help icons (question mark symbols next to feature names), User account dropdown ('Dan Storbeami' in the top right), Support link ('Need support? Contact us here.')
+--------------------------------------------------
+
+
+[ VISUAL SIGNAL @ 183.2s | ID: REF_011_F9 ]
+TYPE: UI_Walkthrough/Settings_Overview
+SCENE: The user interface displays the main dashboard of the Secure Privacy application, providing an overview of various privacy and compliance features and their activation status.
+UI ELEMENTS: Left navigation menu (Dashboard, Installation, Banners, Report, Automated scanning, Privacy Policy, Consent tracking, Languages, Domains), Feature list with status (Visual script, Languages, Cookie banner, Fixed form, Privacy Center, Privacy Policy, Monthly Scanning), Toggle switches for activating/deactivating features (e.g., Cookie banner, Privacy Center), Customization links (e.g., 'Edit' for Cookie banner, 'Test connection' for Visual script), Help/information icons (question marks next to feature names), User account dropdown ('Dan Storbaek'), Browser tabs, Video player controls
+--------------------------------------------------
+
+
+[ VISUAL SIGNAL @ 184.6s | ID: REF_012_F10 ]
+TYPE: UI_Walkthrough
+SCENE: Inside the main dashboard of Secure Privacy AI, displaying an overview of various privacy compliance features and their current activation and customization status.
+UI ELEMENTS: Left navigation menu items (e.g., Dashboard, Installation, Banners, Privacy Policy, Consent tracking), Feature activation toggle switches (e.g., for Cookie banner, Privacy Center, Privacy Policy), Feature customization 'Edit' links (e.g., for Languages, Cookie banner, Privacy Center), Feature status indicators (e.g., 'Completed' for script, '25 languages selected'), User profile dropdown (Dan Storback), Support contact link 'Need support? Contact us here.'
+--------------------------------------------------
+
+[03:01] I want to show you how it looks inside the administration panel.
+[03:04] So, if I go to consent tracking and let's say I now press refresh right here,
+[03:11] you can then see that I have now declined for analytics right here.
+[03:18] So, you can basically see that I have declined and we now have a record of the consent in real time,
+[03:25] documented by a secure privacy as well.
+[03:27] So, that's something you have to have in mind when you implement a GDPR,
+[03:33] E privacy, or LTPD solution for your websites and your company.
+[03:38] Okay, so, three common mistakes.
+[03:39] Thanks. I hope it makes sense.
+[03:41] Autolize with the habit to hear from you.

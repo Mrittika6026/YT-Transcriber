@@ -1,0 +1,296 @@
+{
+  "video_id": "XNQTWZ87K4I",
+  "video_url": "https://www.youtube.com/watch?v=XNQTWZ87K4I",
+  "video_title": "3 common GDPR mistakes for website compliance",
+  "duration_ms": 226000,
+  "transcript": [
+    {
+      "timestamp_ms": 5000,
+      "text": "information data privacy laws?",
+      "visual_id": "VISUAL_000",
+      "reference_type": "contextual",
+      "detection_method": "semantic",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 20780,
+      "text": "So, one of them is that do you have a cookie banner,",
+      "visual_id": null,
+      "reference_type": "ui_element",
+      "detection_method": "regex"
+    },
+    {
+      "timestamp_ms": 24140,
+      "text": "which blocked cookies before you have explicit consent?",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 27820,
+      "text": "Okay, I want to show you how it can be done.",
+      "visual_id": null,
+      "reference_type": "visual_demonstration",
+      "detection_method": "regex"
+    },
+    {
+      "timestamp_ms": 31460,
+      "text": "So, if you take a look on this website right here,",
+      "visual_id": "VISUAL_000",
+      "reference_type": "general_reference",
+      "detection_method": "regex",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 35800,
+      "text": "we have a cookie banner, which communicates the privacy notice,",
+      "visual_id": "VISUAL_000",
+      "reference_type": "ui_element",
+      "detection_method": "regex",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 40280,
+      "text": "and also you have to embed the ability to block cookies",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 51980,
+      "text": "Basically, be able to block cookies before you have received explicit consent.",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 56400,
+      "text": "Okay, another best practice you want to have included in your banner",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 64819,
+      "text": "the cookie banner, as you see right here.",
+      "visual_id": null,
+      "reference_type": "visual_demonstration",
+      "detection_method": "regex"
+    },
+    {
+      "timestamp_ms": 71380,
+      "text": "of being transparent with the data we collect.",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 75060,
+      "text": "So, we have what we call a detailed cookie banner.",
+      "visual_id": null,
+      "reference_type": "ui_element",
+      "detection_method": "regex"
+    },
+    {
+      "timestamp_ms": 78040,
+      "text": "So, you can take details and you can see what type of cookies and plugins",
+      "visual_id": "VISUAL_000",
+      "reference_type": "contextual",
+      "detection_method": "semantic",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 106740,
+      "text": "Okay, now that's one of the areas we want to walk through in terms of the cookie banner.",
+      "visual_id": null,
+      "reference_type": "ui_element",
+      "detection_method": "regex"
+    },
+    {
+      "timestamp_ms": 111580,
+      "text": "A second part is have you made it easy to withdraw consent?",
+      "visual_id": "VISUAL_000",
+      "reference_type": "structural_transition",
+      "detection_method": "regex",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 121780,
+      "text": "So, in this case, let's say that I have now consented for the cookies and trackers.",
+      "visual_id": "VISUAL_000",
+      "reference_type": "contextual",
+      "detection_method": "semantic",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 126900,
+      "text": "Now, how do you actually change the consent?",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 132100,
+      "text": "Now, you may have difficulty because of the little widget down here.",
+      "visual_id": null,
+      "reference_type": "ui_element",
+      "detection_method": "regex"
+    },
+    {
+      "timestamp_ms": 150900,
+      "text": "but also opt out and basically change the users previously given consent as well.",
+      "visual_id": "VISUAL_000",
+      "reference_type": "contextual",
+      "detection_method": "semantic",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 157660,
+      "text": "And that's something we document inside our back end as well.",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 161560,
+      "text": "Okay, so that's a way to communicate additional privacy information,",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 164840,
+      "text": "but also to be very transparent and provide the ability for the user to withdraw consent at a later time.",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 173700,
+      "text": "So, that is the second point.",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 176020,
+      "text": "Now, the third point is do you have evidence of valid consent?",
+      "visual_id": null,
+      "reference_type": "structural_transition",
+      "detection_method": "regex"
+    },
+    {
+      "timestamp_ms": 181180,
+      "text": "I want to show you how it looks inside the administration panel.",
+      "visual_id": "VISUAL_000",
+      "reference_type": "interface_navigation",
+      "detection_method": "regex",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 184620,
+      "text": "So, if I go to consent tracking and let's say I now press refresh right here,",
+      "visual_id": "VISUAL_000",
+      "reference_type": "interface_navigation",
+      "detection_method": "regex",
+      "visual_description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "ocr_text": null
+    },
+    {
+      "timestamp_ms": 198280,
+      "text": "So, you can basically see that I have declined and we now have a record of the consent in real time,",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 205060,
+      "text": "documented by a secure privacy as well.",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 207680,
+      "text": "So, that's something you have to have in mind when you implement a GDPR,",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    },
+    {
+      "timestamp_ms": 213920,
+      "text": "E privacy, or LTPD solution for your websites and your company.",
+      "visual_id": null,
+      "reference_type": "contextual",
+      "detection_method": "semantic"
+    }
+  ],
+  "visuals": {
+    "VISUAL_000": {
+      "representative_frame": "/kaggle/working/frames/SEM_1015/SEM_1015_offset_+2.0s.jpg",
+      "thumbnail": "/kaggle/working/frames/SEM_1015/SEM_1015_offset_+2.0s_thumb.jpg",
+      "appears_at_ms": [
+        4000,
+        32460,
+        33460,
+        34800,
+        79040,
+        110580,
+        123780,
+        149900,
+        182180,
+        183180,
+        184620
+      ],
+      "appearance_count": 11,
+      "quality": {
+        "brightness": 113.87696614583334,
+        "sharpness": 2243.1329695203995,
+        "quality_score": 0.9679458026960783,
+        "is_good_quality": true
+      },
+      "frame_ids": [
+        "SEM_1000_F0",
+        "REF_003_F1",
+        "REF_003_F2",
+        "REF_004_F3",
+        "SEM_1012_F4",
+        "REF_008_F5",
+        "SEM_1015_F6",
+        "SEM_1018_F7",
+        "REF_011_F8",
+        "REF_011_F9",
+        "REF_012_F10"
+      ],
+      "description": "```json\n{\n  \"description\": \"The frame displays the landing page of the 'Secure Privacy' website, which promotes solutions for GDPR, CCPA, and LGPD compliance. It highlights the service's value proposition and offers a free website and cookie scan. A small embedded video showcasing a product demo is also visible at the bottom of the page.\",\n  \"visual_elements\": [\n    \"Secure Privacy brand logo\",\n    \"Navigation links (Support, Reseller, Login)\",\n    \"Request Demo button\",\n    \"Headline text about GDPR and Cookie laws\",\n    \"Input field labeled 'Enter your website URL'\",\n    \"Button labeled 'Check my website'\",\n    \"Embedded product demonstration video player\",\n    \"Speaker's webcam feed\"\n  ],\n  \"type\": \"Introduction / UI_Walkthrough\",\n  \"concept\": \"GDPR Compliance / Cookie Management / Privacy Law Solutions\"\n}\n```",
+      "visual_type": "unknown",
+      "concept": ""
+    }
+  },
+  "metadata": {
+    "total_utterances": 54,
+    "total_references": 30,
+    "total_frames_extracted": 11,
+    "valid_frames": 11,
+    "unique_visuals": 1,
+    "clip_model": "clip-ViT-B-32",
+    "clustering_eps": 0.3
+  }
+}

@@ -1,0 +1,103 @@
+Visual Frame Extraction Report
+Video ID: XNQTWZ87K4I
+======================================================================
+
+[1] Frame ID: SEM_1000_F0
+    Time: 4.0s (offset: -1.0s)
+    Reference: information data privacy laws?...
+    Quality: 0.76
+    Path: /kaggle/working/frames/SEM_1000/SEM_1000_offset_-1.0s.jpg
+    AI: ```json
+{
+  "description": "A Google Slides presentation titled '3 common mistakes' displaying three...
+
+[2] Frame ID: REF_003_F1
+    Time: 32.5s (offset: +1.0s)
+    Reference: So, if you take a look on this website right here,...
+    Quality: 0.96
+    Path: /kaggle/working/frames/REF_003/REF_003_offset_+1.0s.jpg
+    AI: ```json
+{
+  "description": "The UI displays the landing page for Secure Privacy, a service focused o...
+
+[3] Frame ID: REF_003_F2
+    Time: 33.5s (offset: +2.0s)
+    Reference: So, if you take a look on this website right here,...
+    Quality: 0.96
+    Path: /kaggle/working/frames/REF_003/REF_003_offset_+2.0s.jpg
+    AI: ```json
+{
+  "description": "The UI displays the landing page of Secure Privacy (secureprivacy.ai), a...
+
+[4] Frame ID: REF_004_F3
+    Time: 34.8s (offset: -1.0s)
+    Reference: we have a cookie banner, which communicates the privacy notice,...
+    Quality: 0.96
+    Path: /kaggle/working/frames/REF_004/REF_004_offset_-1.0s.jpg
+    AI: ```json
+{
+  "description": "The UI displays the Secure Privacy landing page, which advertises GDPR a...
+
+[5] Frame ID: SEM_1012_F4
+    Time: 79.0s (offset: +1.0s)
+    Reference: So, you can take details and you can see what type of cookies and plugins...
+    Quality: 0.89
+    Path: /kaggle/working/frames/SEM_1012/SEM_1012_offset_+1.0s.jpg
+    AI: ```json
+{
+  "description": "The UI displays an expanded cookie consent management widget from 'Secur...
+
+[6] Frame ID: REF_008_F5
+    Time: 110.6s (offset: -1.0s)
+    Reference: A second part is have you made it easy to withdraw consent?...
+    Quality: 0.76
+    Path: /kaggle/working/frames/REF_008/REF_008_offset_-1.0s.jpg
+    AI: ```json
+{
+  "description": "A Google Slides presentation displaying a slide titled '3 common mistake...
+
+[7] Frame ID: SEM_1015_F6
+    Time: 123.8s (offset: +2.0s)
+    Reference: So, in this case, let's say that I have now consented for the cookies and tracke...
+    Quality: 0.97
+    Path: /kaggle/working/frames/SEM_1015/SEM_1015_offset_+2.0s.jpg
+    AI: ```json
+{
+  "description": "The frame displays the landing page of the 'Secure Privacy' website, whi...
+
+[8] Frame ID: SEM_1018_F7
+    Time: 149.9s (offset: -1.0s)
+    Reference: but also opt out and basically change the users previously given consent as well...
+    Quality: 0.96
+    Path: /kaggle/working/frames/SEM_1018/SEM_1018_offset_-1.0s.jpg
+    AI: ```json
+{
+  "description": "A modal window showing a configuration panel for managing privacy settin...
+
+[9] Frame ID: REF_011_F8
+    Time: 182.2s (offset: +1.0s)
+    Reference: I want to show you how it looks inside the administration panel....
+    Quality: 0.82
+    Path: /kaggle/working/frames/REF_011/REF_011_offset_+1.0s.jpg
+    AI: ```json
+{
+  "description": "The SecurePrivacy.ai dashboard, displaying an overview of various privac...
+
+[10] Frame ID: REF_011_F9
+    Time: 183.2s (offset: +2.0s)
+    Reference: I want to show you how it looks inside the administration panel....
+    Quality: 0.81
+    Path: /kaggle/working/frames/REF_011/REF_011_offset_+2.0s.jpg
+    AI: ```json
+{
+  "description": "The UI displays the 'Dashboard' section of the Secure Privacy applicatio...
+
+[11] Frame ID: REF_012_F10
+    Time: 184.6s (offset: +0.0s)
+    Reference: So, if I go to consent tracking and let's say I now press refresh right here,...
+    Quality: 0.81
+    Path: /kaggle/working/frames/REF_012/REF_012_offset_+0.0s.jpg
+    AI: ```json
+{
+  "description": "The admin dashboard of a privacy compliance platform (secureprivacy.ai),...
+

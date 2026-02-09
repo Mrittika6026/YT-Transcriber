@@ -1,0 +1,67 @@
+ENRICHED TRANSCRIPT REPORT
+Video ID: XNQTWZ87K4I
+======================================================================
+
+VISUAL DATABASE
+----------------------------------------------------------------------
+
+VISUAL_000:
+  Appears: 11 times
+  Times: 4.0s, 32.46s, 33.46s, 34.8s, 79.04s...
+  Description: ```json
+{
+  "description": "The frame displays the landing page of the 'Secure Privacy' website, whi...
+
+======================================================================
+
+TRANSCRIPT ENTRIES
+----------------------------------------------------------------------
+
+[1] 5.0s
+  Text: information data privacy laws?...
+  Visual: VISUAL_000
+  Description: ```json
+{
+  "description": "The frame displays the landing page of the 'Secure P...
+
+[2] 20.8s
+  Text: So, one of them is that do you have a cookie banner,...
+  Visual: None
+
+[3] 24.1s
+  Text: which blocked cookies before you have explicit consent?...
+  Visual: None
+
+[4] 27.8s
+  Text: Okay, I want to show you how it can be done....
+  Visual: None
+
+[5] 31.5s
+  Text: So, if you take a look on this website right here,...
+  Visual: VISUAL_000
+  Description: ```json
+{
+  "description": "The frame displays the landing page of the 'Secure P...
+
+[6] 35.8s
+  Text: we have a cookie banner, which communicates the privacy notice,...
+  Visual: VISUAL_000
+  Description: ```json
+{
+  "description": "The frame displays the landing page of the 'Secure P...
+
+[7] 40.3s
+  Text: and also you have to embed the ability to block cookies...
+  Visual: None
+
+[8] 52.0s
+  Text: Basically, be able to block cookies before you have received explicit consent....
+  Visual: None
+
+[9] 56.4s
+  Text: Okay, another best practice you want to have included in your banner...
+  Visual: None
+
+[10] 64.8s
+  Text: the cookie banner, as you see right here....
+  Visual: None

@@ -1,0 +1,94 @@
+Visual Reference Detection Report
+Video ID: XNQTWZ87K4I
+======================================================================
+
+[1] 5.0s - semantic (conf: 0.47)
+    information data privacy laws?
+
+[2] 20.8s - regex (conf: 0.95)
+    So, one of them is that do you have a cookie banner,
+
+[3] 24.1s - semantic (conf: 0.49)
+    which blocked cookies before you have explicit consent?
+
+[4] 27.8s - regex (conf: 0.95)
+    Okay, I want to show you how it can be done.
+
+[5] 31.5s - regex (conf: 0.95)
+    So, if you take a look on this website right here,
+
+[6] 35.8s - regex (conf: 0.95)
+    we have a cookie banner, which communicates the privacy notice,
+
+[7] 40.3s - semantic (conf: 0.46)
+    and also you have to embed the ability to block cookies
+
+[8] 52.0s - semantic (conf: 0.52)
+    Basically, be able to block cookies before you have received explicit consent.
+
+[9] 56.4s - semantic (conf: 0.48)
+    Okay, another best practice you want to have included in your banner
+
+[10] 64.8s - regex (conf: 0.95)
+    the cookie banner, as you see right here.
+
+[11] 71.4s - semantic (conf: 0.41)
+    of being transparent with the data we collect.
+
+[12] 75.1s - regex (conf: 0.95)
+    So, we have what we call a detailed cookie banner.
+
+[13] 78.0s - semantic (conf: 0.51)
+    So, you can take details and you can see what type of cookies and plugins
+
+[14] 106.7s - regex (conf: 0.95)
+    Okay, now that's one of the areas we want to walk through in terms of the cookie banner.
+
+[15] 111.6s - regex (conf: 0.95)
+    A second part is have you made it easy to withdraw consent?
+
+[16] 121.8s - semantic (conf: 0.71)
+    So, in this case, let's say that I have now consented for the cookies and trackers.
+
+[17] 126.9s - semantic (conf: 0.63)
+    Now, how do you actually change the consent?
+
+[18] 132.1s - regex (conf: 0.95)
+    Now, you may have difficulty because of the little widget down here.
+
+[19] 150.9s - semantic (conf: 0.52)
+    but also opt out and basically change the users previously given consent as well.
+
+[20] 157.7s - semantic (conf: 0.61)
+    And that's something we document inside our back end as well.
+
+[21] 161.6s - semantic (conf: 0.46)
+    Okay, so that's a way to communicate additional privacy information,
+
+[22] 164.8s - semantic (conf: 0.51)
+    but also to be very transparent and provide the ability for the user to withdraw consent at a later time.
+
+[23] 173.7s - semantic (conf: 0.61)
+    So, that is the second point.
+
+[24] 176.0s - regex (conf: 0.95)
+    Now, the third point is do you have evidence of valid consent?
+
+[25] 181.2s - regex (conf: 0.95)
+    I want to show you how it looks inside the administration panel.
+
+[26] 184.6s - regex (conf: 0.95)
+    So, if I go to consent tracking and let's say I now press refresh right here,
+
+[27] 198.3s - semantic (conf: 0.68)
+    So, you can basically see that I have declined and we now have a record of the consent in real time,
+
+[28] 205.1s - semantic (conf: 0.45)
+    documented by a secure privacy as well.
+
+[29] 207.7s - semantic (conf: 0.41)
+    So, that's something you have to have in mind when you implement a GDPR,
+
+[30] 213.9s - semantic (conf: 0.41)
+    E privacy, or LTPD solution for your websites and your company.
+
